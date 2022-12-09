@@ -49,7 +49,7 @@ Continue clicking through the only options there, starting with subnet-\* and th
 ![Open ports](/images/ghost-oracle-6.png)
 
 ## Step 5: Configuring your instance
-Head back to your [instance page](https://cloud.oracle.com/compute/instances) in Oracle, then click on its name to get all the details you'll need to SSH into it, most imporantly its public IP address and username:
+Head back to your [instance page](https://cloud.oracle.com/compute/instances) in Oracle, then click on its name to get all the details you'll need to SSH into it, most importantly its public IP address and username:
 
 ![Select your instance](/images/ghost-oracle-3.png)
 ![Copy your IP and username](/images/ghost-oracle-4.png)
