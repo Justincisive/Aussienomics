@@ -3,7 +3,7 @@ title: Installing Ghost onto Oracle Cloud Always Free
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2022-12-10T08:34:00+08:00"
+date: "2022-12-09T18:29:00+08:00"
 description: How to install ghost on Oracle's Always Free cloud server using Ubuntu. A step by step guide.
 tags:
 - tech
@@ -12,10 +12,10 @@ backtotop: true
 toc: false
 ---
 
-Have you ever wanted to run your own newsletter, with your own domain, but didn't want to fork out for a virtual private server (VPS) or a paid Substack plan? I certainly did, so here's a simple how-to guide in case anyone else has the same idea.
+Have you ever wanted to run your own newsletter, with your own domain, but didn't want to fork out for a virtual private server (VPS) or a paid Substack plan? I certainly did; if you're like me, here's a simple how-to guide.
 
 ## Step 1: Buy a domain name
-If you don't already own a domain name the cheapest place I've found is through [Cloudflare](https://www.cloudflare.com/products/registrar/), which will also host your DNS for free (yay!).
+If you don't already own a domain name the cheapest place I've found is [Cloudflare](https://www.cloudflare.com/products/registrar/), which will also host your DNS for free.
 
 ## Step 2: Sign up for Oracle Cloud
 Head over to [Oracle Cloud](https://www.oracle.com/cloud/free/) and register for an account. You'll need a credit card to complete the sign up process but you won't be charged, nor will you be charged in the future -- we're going to stay well within the limits of the *Always Free* plan.
@@ -206,7 +206,7 @@ Then if you're using Mailgun, replace this:
   "mail": {
     "transport": "Direct"
   }
-}
+},
 ```
 
 ...with this:
@@ -225,17 +225,16 @@ Then if you're using Mailgun, replace this:
       }
     }
   },
-
 ```
 
 Then simply restart Ghost:
 
 `ghost restart`
 
-...aaaand you're done, congrats! If you want to optimise ghost even further, below are some additional steps.
+...aaaand you're done, congrats! If you want to optimise Ghost even further, read on 👇
 
 ## Step 7: Optimise Ghost
-Navigate to your ghost folder and create a file that will run every five hours to clear up RAM:
+Navigate to your ghost folder and create a file that will run every five hours to reduce the risk of running out of memory:
 
 `cd /var/www/yourdomain`
 
@@ -269,7 +268,7 @@ Add this line to the bottom of the crontab file:
 
 `0 */5 * * * /home/pi/projects/scripts/free-ram.sh`
 
-Done! Type 'exit' to get out of superuser mode. You may get a permission error when restarting or upgrading Ghost, to fix it simply run the command Ghost recommends and try again.
+Done! Type 'exit' to get out of superuser mode. You may get a permission error when restarting or upgrading Ghost, to fix it run the command Ghost recommends and try again.
 
 Finally, we'll set up a file to rotate our logs to save on disk space:
 
