@@ -1,4 +1,4 @@
 ---
-layout: archives
-title: Archive
+title: "Archives"
+type: archives
 ---
