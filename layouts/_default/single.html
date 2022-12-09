@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <article class="article" class="blog-post">
+      {{ partial "toc.html" . }}
+
+      {{ if .Params.tags }}
+        <div class="blog-tags">
+          {{ range .Params.tags }}
+            <a
+              href="{{ "" | absLangURL }}tags/{{ . | urlize }}{{ if $.Site.Params.uglyurls }}.html{{ else }}/{{ end }}"
+              >{{ . }}</a
+            >&nbsp;
+          {{ end }}
+        </div>
+      {{ end }}
+
+      {{ if .Site.Params.enableBottomNavigation }}
+        {{ partial "bottomnav.html" . }}
+      {{ end }}
+    </article>
+    {{ if and (gt .WordCount 400) (.Param "backtotop") }}
+      <button onclick="topFunction()" id="backtotopButton">
+        <em class="fa fa-angle-up"></em>
+      </button>
+      {{ partial "backtotop.html" . }}
+    {{ end }}
+<script src="https://utteranc.es/client.js"
+        repo="JustinPyvis/Aussienomics-comments"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+  </div>
+{{ end }}
