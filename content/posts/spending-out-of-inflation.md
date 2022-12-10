@@ -9,6 +9,8 @@ tags:
 - energy
 backtotop: true
 toc: false
+#images:
+#- icon.png
 ---
 
 On Friday afternoon, the Australian government announced its much-anticipated solution to the energy crisis -- [subsidies and price caps](https://7news.com.au/lifestyle/personal-finance/millions-of-aussies-set-to-share-in-15-billion-cash-back-program-to-help-with-cost-of-living-c-9110427). According to Prime Minister Anthony Albanese:
