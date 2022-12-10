@@ -10,7 +10,7 @@ summaryLength = "30"
 
 [params]
   description = 'A blog focusing on current economic, political and social issues in Australia.'
-  images = ['icon-large.png']
+  images = ['images/icon-large.png']
   title = 'Aussienomics'
 
 [permalinks]
