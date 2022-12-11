@@ -11,7 +11,6 @@ summaryLength = "30"
 [params]
   description = 'A blog focusing on current economic, political and social issues in Australia.'
   images = ['images/icon-large.png']
-  title = 'Aussienomics'
 
 [permalinks]
   posts = '/:title/'
@@ -29,8 +28,8 @@ summaryLength = "30"
 #  domain="stats.domain.com"
 #  id="123"
 
-[Author]
-  name = "Justin"
+[author]
+  name = 'Justin'
 
 #[outputs]
 #  section = ["JSON", "HTML"]
