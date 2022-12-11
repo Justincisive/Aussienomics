@@ -33,4 +33,4 @@ But there are important long run considerations: will changing the rules discour
 
 Perhaps most notably, no additional energy will be produced under this plan. It's essentially $1.5 billion worth of debt-financed fiscal stimulus into an overheating economy (Australia's GDP deflator increased by 6.9% in September 2022, suggesting broad-based price pressures). Reducing the price consumers pay for energy without increasing supply means they will demand more of it, increasing the risk of shortages. The number of dollars chasing a finite number of goods also hasn't changed; whatever households save on energy they can now spend on something else, which will change the composition of inflation but not the overall rate.
 
-There are too many unknowns and too much uncertainty to draw any concrete conclusions about this plan but at first glance it's quite far off what one might considered optimal. The government had better tread *very* carefully!
+There are too many unknowns and too much uncertainty to draw any concrete conclusions about this plan but at first glance it's quite far off what one might consider optimal. The government had better tread *very* carefully!
