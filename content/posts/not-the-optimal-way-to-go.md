@@ -4,7 +4,7 @@ ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
 date: "2022-12-13T10:54:00+08:00"
-#description: The Australian government announced its much-anticipated solution to the energy crisis. At first glance it's quite far off what one might considered optimal, although there are too many unknowns and too much uncertainty to draw any concrete conclusions.
+description: There's very little support for the Australian government's energy price cap plan outside of hollow political talking points, and for good reason.
 tags:
 - energy
 backtotop: true
