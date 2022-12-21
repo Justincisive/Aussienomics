@@ -96,54 +96,20 @@ Now we'll update our instance with the following commands:
 Now all we have to do is install a few Ghost prerequisites, such as a webserver, database, nodejs and opening some ports so people can actually visit the site:
 
 `sudo apt-get install nginx`
+
 `sudo apt-get install mysql-server`
+
 `curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash`
+
 `sudo apt-get install -y nodejs`
 
 Once that's done, it's time to open some ports:
 
 `sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 80 -j ACCEPT`
+
 `sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 443 -j ACCEPT`
+
 `sudo netfilter-persistent save`
-
-Next we'll tone down MySQL's resource usage a little. Open your config file:
-
-`sudo nano /etc/mysql/conf.d/mysql.cnf`
-
-Add the following:
-
-```
-[mysql]
-# global settings
-performance_schema = OFF
-
-innodb_buffer_pool_size=50M
-innodb_flush_method=O_DIRECT
-innodb_log_buffer_size=1048576
-innodb_log_file_size=4194304
-innodb_max_undo_log_size=10485760
-innodb_sort_buffer_size=64K
-innodb_ft_cache_size=1600000
-innodb_max_undo_log_size=10485760
-max_connections=20
-key_buffer_size=1M
-
-# per-thread settings
-thread_stack=140K
-thread_cache_size = 2
-read_buffer_size=8200
-read_rnd_buffer_size=8200
-max_heap_table_size=16K
-tmp_table_size=128K
-temptable_max_ram=2097152
-bulk_insert_buffer_size=0
-join_buffer_size=128
-net_buffer_length=1K
-```
-
-Then restart MySQL:
-
-`sudo service mysql restart`
 
 Verify that your website works by visiting your public IP address, which should show a Welcome to nginx message: http://[your.public.ip.address]
 
@@ -174,11 +140,17 @@ Now we'll install the Ghost CLI:
 
 The final step before we actually install Ghost is to create a folder for it and set the appropriate permissions:
 
-`sudo mkdir -p /var/www/yourdomain`
+`sudo mkdir -p /var/www/ghost`
 
 `sudo chown ubuntu:ubuntu /var/www/ghost`
 
 `sudo chmod 775 /var/www/ghost`
+
+The Oracle servers are relatively slow, so we'll increase the timeout to allow us to actually install Ghost.
+
+`sudo npm install --global yarn`
+
+`yarn install --network-timeout 1000000`
 
 Now to actually install Ghost:
 
@@ -195,7 +167,7 @@ I'm not going to go into a lot of detail here because everything can be found on
 
 You'll need to get yourself a Mailgun account (currently the only provider that can send Ghost newsletters) or some other transactional email sender and configure it to work with your domain. Once you've done that, open your config.production.json:
 
-`cd /var/www/yourdomain`
+`cd /var/www/ghost`
 
 `sudo nano config.production.json`
 
@@ -234,9 +206,49 @@ Then simply restart Ghost:
 ...aaaand you're done, congrats! If you want to optimise Ghost even further, read on 👇
 
 ## Step 7: Optimise Ghost
-Navigate to your ghost folder and create a file that will run every five hours to reduce the risk of running out of memory:
 
-`cd /var/www/yourdomain`
+The first thing we'll do is reduce MySQL's memory usage:
+
+`sudo nano /etc/mysql/conf.d/mysql.cnf`
+
+Add the following:
+
+```
+[mysql]
+# global settings
+performance_schema = OFF
+
+innodb_buffer_pool_size=50M
+innodb_flush_method=O_DIRECT
+innodb_log_buffer_size=1048576
+innodb_log_file_size=4194304
+innodb_max_undo_log_size=10485760
+innodb_sort_buffer_size=64K
+innodb_ft_cache_size=1600000
+innodb_max_undo_log_size=10485760
+max_connections=20
+key_buffer_size=1M
+
+# per-thread settings
+thread_stack=140K
+thread_cache_size = 2
+read_buffer_size=8200
+read_rnd_buffer_size=8200
+max_heap_table_size=16K
+tmp_table_size=128K
+temptable_max_ram=2097152
+bulk_insert_buffer_size=0
+join_buffer_size=128
+net_buffer_length=1K
+```
+
+Then restart MySQL:
+
+`sudo service mysql restart`
+
+Next, navigate to your ghost folder and create a file that will run every five hours to reduce the risk of running out of memory:
+
+`cd /var/www/ghost`
 
 `touch free-ram.sh && chmod +x free-ram.sh`
 
@@ -268,16 +280,14 @@ Add this line to the bottom of the crontab file:
 
 `0 */5 * * * /home/pi/projects/scripts/free-ram.sh`
 
-Done! Type 'exit' to get out of superuser mode. You may get a permission error when restarting or upgrading Ghost, to fix it run the command Ghost recommends and try again.
-
-Finally, we'll set up a file to rotate our logs to save on disk space:
+Done! Type 'exit' to get out of superuser mode. Finally, we'll set up a file to rotate our logs to save on disk space:
 
 `sudo nano /etc/logrotate.d/ghost`
 
 Paste the following into the file:
 
 ```
-/var/www/yourdomain/content/logs/*.log {
+/var/www/ghost/content/logs/*.log {
 	weekly
 	rotate 12
 	compress
