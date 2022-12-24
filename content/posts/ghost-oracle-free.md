@@ -278,7 +278,7 @@ Now let's set it to run every five hours:
 
 Add this line to the bottom of the crontab file:
 
-`0 */5 * * * /home/pi/projects/scripts/free-ram.sh`
+`0 */5 * * * /var/www/ghost/free-ram.sh`
 
 Done! Type 'exit' to get out of superuser mode. Finally, we'll set up a file to rotate our logs to save on disk space:
 
