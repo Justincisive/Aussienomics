@@ -8,3 +8,7 @@
   font-size: 40px;
   font-style: italic;
 }
+
+.nav-links a {
+  color: #000;
+}
