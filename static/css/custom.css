@@ -9,6 +9,59 @@
   font-style: italic;
 }
 
-.nav-links a {
+.nav-links a:link {
   color: #000;
+}
+.nav-links a:visited {
+  color: #000;
+}
+.nav-links a:hover {
+  color: #000;
+}
+.nav-links a:active {
+  color: #000;
+}
+.post-preview a:link {
+  color: #000;
+}
+.post-preview a:visited {
+  color: #000;
+}
+.post-preview a:hover {
+  color: #000;
+}
+.post-preview a:active {
+  color: #000;
+}
+footer a:link {
+  color: #000;
+}
+footer a:visited {
+  color: #000;
+}
+footer a:hover {
+  color: #000;
+}
+footer a:active {
+  color: #000;
+}
+
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: purple;
+}
+
+/* selected link */
+a:active {
+  color: purple;
 }
