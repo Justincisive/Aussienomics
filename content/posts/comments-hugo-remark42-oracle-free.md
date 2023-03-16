@@ -15,7 +15,7 @@ toc: false
 If you read my previous articles on installing [Soapbox and Pleroma Rebased](/create-your-own-fediverse-instance-for-free/), or the [Ghost newsletter](/installing-ghost-onto-oracle-cloud-always-free/) software, on Oracle's Always Free cloud server using Ubuntu, then what follows should be somewhat familiar to you.
 
 ## Step 1: Buy a domain
-I'm assuming your Hugo instance has its own domain name. If not, the cheapest place I've found is [Cloudflare](https://www.cloudflare.com/products/registrar/), which will also host your DNS for free. You'll need this because we're going to host your Remark24 comments on a subdomain.
+I'm assuming your Hugo instance has its own domain name. If not, the cheapest place I've found is [Cloudflare](https://www.cloudflare.com/products/registrar/), which will also host your DNS for free. You'll need this because we're going to host your Remark42 comments on a subdomain.
 
 ## Step 2: Sign up for Oracle Cloud
 Head over to [Oracle Cloud](https://www.oracle.com/cloud/free/) and register for an account. A credit card is required to complete the sign up process but you won't be charged, nor should you be charged in the future -- we're going to stay well within the limits of the *Always Free* plan.
@@ -144,7 +144,7 @@ Given that we're running this instance as ubuntu rather than root, we'll need to
 
 Change the SocketUser from `root` to `ubuntu`, then exit (ctrl+o, ctrl+x, enter).
 
-## Step 8: Install Remark24
+## Step 8: Install Remark42
 For this next part we're going to be drawing heavily from the [official docs](https://remark42.com/docs/getting-started/installation/). Create the default config, making sure to change the variables to fit your instance.
 
 `sudo nano docker-compose.yml`
