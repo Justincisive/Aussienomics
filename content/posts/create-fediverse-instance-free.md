@@ -97,7 +97,7 @@ Now we'll update our instance with the following commands:
 
 Then install the prerequisites:
 
-`sudo apt install git curl build-essential postgresql postgresql-contrib cmake libmagic-dev imagemagick ffmpeg libimage-exiftool-perl nginx certbot unzip libssl-dev automake autoconf libncurses5-dev fasttext`
+`sudo apt install git curl build-essential postgresql postgresql-contrib cmake libmagic-dev imagemagick ffmpeg libimage-exiftool-perl nginx certbot python3-certbot-nginx unzip libssl-dev automake autoconf libncurses5-dev fasttext`
 
 Next, create a user to run the backend. We'll call it pleroma:
 
@@ -245,15 +245,11 @@ If you've made it this far, congrats! You're very close to being done. Your Reba
 
 The last step is to make your server accessible to the outside world. We'll achieve that by installing Nginx and enabling HTTPS support.
 
-We'll use certbot to get an SSL certificate. First, shut off Nginx:
-
-`sudo systemctl stop nginx`
-
-Now you can get the certificate:
+We'll use certbot to get an SSL certificate:
 
 `sudo mkdir -p /var/lib/letsencrypt/`
 
-`sudo certbot certonly --email <your@emailaddress> -d <your.domain> --standalone`
+`sudo certbot certonly --email <your@emailaddress> -d <your.domain> --nginx`
 
 Replace `<your@emailaddress>` and `<your.domain>` with real values. Then copy the example Nginx configuration and activate it:
 
@@ -269,7 +265,7 @@ Change all occurrences of example.tld with your site's domain name. Use Ctrl+X, 
 
 `sudo systemctl enable --now nginx.service`
 
-It's finally time to install Soapbox itself! First, get the latest build.
+It's time to install Soapbox itself! First, get the latest build.
 
 `sudo curl -L https://gitlab.com/soapbox-pub/soapbox/-/jobs/artifacts/develop/download?job=build-production -o soapbox.zip`
 
