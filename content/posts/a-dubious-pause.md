@@ -21,7 +21,7 @@ Was there a case for a pause? Sure: Retail sales [cooled somewhat](https://www.a
 
 The RBA was also late to react to the inflationary wave, so if anything it still has more work to do than other global, developed economies. At the time of writing the United States federal funds rate was 4.75-5.00%; New Zealand's cash rate was at 4.75%; Canada's 4.5%; and the UK's 4.25%.
 
-The pause is especially dubious because the timing is quite convenient. 
+But what makes the pause especially dubious is the convenient timing. 
 
 First, a number of Labour MPs have [recently criticised](https://www.smh.com.au/politics/federal/phil-lowe-s-future-as-rba-governor-questioned-by-government-mps-20230208-p5civq.html) Governor Lowe. Not, mind you, because inflation got out of control; no, they were critical because he hiked rates so much (funny how they never complained when he was juicing the economy back in 2020-21, which is what led to the inflation!).
 
