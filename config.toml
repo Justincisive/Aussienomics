@@ -9,7 +9,7 @@ footnoteReturnLinkContents = "^"
 summaryLength = "30"
 
 [params]
-  description = 'A blog focusing on current economic, political and social issues in Australia.'
+  description = "Thoughts on the day's economic, political and social issues in Australia."
   images = ['images/icon-large.png']
   customCSS = ["css/custom.css"] # in case you use `/static/css/custom.css`
 
