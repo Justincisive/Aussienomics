@@ -18,7 +18,7 @@ The Greens Member for Griffith, Max Chandler-Mather, [took to Twitter](https://t
 
 > "Every time valuable inner city land is handed over to luxury property developers we lose another opportunity to build good medium density public and affordable housing. Developers on the other hand will only "supply" private housing when they can profit."
 
-I'm not sure why Max put "supply" in quotation marks. Does he genuinely believe that developers making a profit is a undesirable? If so, would he also object to local grocery stores "supplying" food only when there's a chance to make a profit?
+I'm not sure why Max put "supply" in quotation marks. Does he genuinely believe that developers making a profit is undesirable? If so, would he also object to local grocery stores "supplying" food only when there's a chance to make a profit?
 
 But that aside, Max is wrong when he claims that the construction of luxury apartments will make the housing crisis worse. Building *any* form of housing, even luxury housing, creates a domino effect, freeing up housing elsewhere. When individuals move into luxury apartments, they vacate housing for individuals with less wealth than themselves, who then free up housing for those with even less wealth, and so on, making the entire housing market more affordable.
 
