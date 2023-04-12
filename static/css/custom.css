@@ -21,6 +21,9 @@
 .nav-links a:active {
   color: #000;
 }
+body[data-dark-theme="true"] nav * {
+  color: #e8e8e8 !important;
+}
 .post-preview a:link {
   color: #000;
 }
