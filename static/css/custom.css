@@ -1,14 +1,16 @@
 .intro-header [class$="-heading-home"] {
   text-align: center;
 }
-
 .intro-header [class$="-heading-home"] h1 {
   margin-top: 0;
   padding-top: 0;
   font-size: 40px;
   font-style: italic;
 }
-
+body[data-dark-theme="true"] .nav-logo img {
+    filter: invert(1);
+    -webkit-filter: invert(1);
+}
 .nav-links a:link {
   color: #000;
 }
@@ -48,22 +50,18 @@ footer a:hover {
 footer a:active {
   color: #000;
 }
-
 /* unvisited link */
 a:link {
   color: blue;
 }
-
 /* visited link */
 a:visited {
   color: blue;
 }
-
 /* mouse over link */
 a:hover {
   color: purple;
 }
-
 /* selected link */
 a:active {
   color: purple;
