@@ -16,7 +16,7 @@ toc: false
 #- icon.png
 ---
 
-As the saying goes, don't live to work, but work to live. That's no truer anywhere than in France, [where](https://www.reuters.com/world/europe/france-witness-12th-nationwide-strike-against-macrons-pension-law-2023-04-13/) there's now "a twelfth nationwide day of protests against a bill that will make the French work longer":
+You can 'live to work', or 'work to live'. The latter is definitely the case in France, [where](https://www.reuters.com/world/europe/france-witness-12th-nationwide-strike-against-macrons-pension-law-2023-04-13/) there's now "a twelfth nationwide day of protests against a bill that will make the French work longer":
 
 > "Some trains will be cancelled, and strike actions can also be expected among refinery workers, garbage collectors and teachers, at a time when opinion polls show a wide majority of voters still oppose pushing retirement age by two years to 64.
 > 
