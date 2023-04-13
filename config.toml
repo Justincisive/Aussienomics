@@ -1,84 +1,70 @@
-theme = "harbor"
-baseurl = "https://aussienomics.com/"
-title = "Aussienomics"
+baseurl = "/"
+languageCode = "en-us"
+# Add it only if you keep the theme in the `themes` directory.
+# Remove it if you use the theme as a remote Hugo Module.
+theme = "hello-friend"
 paginate = 5
-languageCode = "en"
-DefaultContentLanguage = "en"
-enableInlineShortcodes = true
-footnoteReturnLinkContents = "^"
-summaryLength = "30"
+summaryLength = "50"
 
 [params]
-  description = "Thoughts on the day's economic, political and social issues in Australia."
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # OS theme is default when not provided, but you can force it to "light" or "dark"
+  defaultTheme = "light"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+
+  # Show reading time in minutes for posts
+  showReadingTime = true
+
+  # Show table of contents at the top of your posts (defaults to false)
+  # Alternatively, add this param to post front matter for specific posts
+  # toc = true
+
+  # Show full page content in RSS feed items
+  #(default is Description or Summary metadata in the front matter)
+  # rssFullText = true
+
   images = ['images/icon-large.png']
-  customCSS = ["css/custom.css"] # in case you use `/static/css/custom.css`
 
 [permalinks]
   posts = '/:title/'
 
-# Optional
-# If you use googleAnalytics, you set top-level options in config.toml to the beginning of the config file like other top-level options.
-#googleAnalytics = "UA-XXXXXXXX-XX"
-# and disqus too.
-#disqusShortName = "yourdisqusshortname"
+[languages]
+  [languages.en]
+    title = "Aussienomics"
+    subtitle = "Thoughts on the day's economic, political and social issues in Australia."
+    keywords = ""
+    copyright = "&copy; 2023 Aussienomics"
+    menuMore = "Show more"
+    writtenBy = "by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+    # leave empty to disable, enter display text to enable
+    # lastModDisplay = ""
 
-#[params.goatcounter]
-#  domain="stats.domain.com"
+    [languages.en.params.logo]
+    #  logoText = "Aussienomics"
+    #  logoHomeLink = "/"
+    # or
+    #
+     path = "/img/aussienomics.png"
+     alt = "Aussienomics"
 
-#[params.matomo]
-#  domain="stats.domain.com"
-#  id="123"
-
-[author]
-  name = 'Justin'
-
-#[outputs]
-#  section = ["JSON", "HTML"]
-
-[[params.nav]]
-  identifier = "about"
-  name = "About"
-  icon = "fas fa-user fa-lg"
-  url = "/about/"
-  weight = 3
-
-[[params.nav]]
-  identifier = "tags"
-  name = "Tags"
-  icon = "fas fa-tag fa-lg"
-  url = "tags"
-  weight = 3
-
-#[[params.nav]]
-#  identifier = "categories"
-#  name = "Category"
-#  icon = "fas fa-folder-open fa-lg"
-#  url = "categories"
-#  weight = 3
-
-[[params.nav]]
-  identifier = "search"
-  name = "Search"
-  icon = "fas fa-search fa-lg"
-  url = "search"
-  weight = 3
-
-[[params.nav]]
-  identifier = "archives"
-  name = "Archives"
-  icon = "fas fa-archive fa-lg"
-  url = "archives"
-  weight = 3
-
-# copy paste this block and change for each social media to add how many ever social media
-# acounts/links you want
-[[params.social]]
-  name="Twitter"
-  url="https://twitter.com/Aussienomics"
-  icon="fab fa-twitter"
-
-[params.logo]
-  url = "icon.png" # static/images/icon.png
-  width = 50
-  height = 50
-  alt = "Logo"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "archive"
+        name = "Archive"
+        url = "/archive"

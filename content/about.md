@@ -1,15 +1,8 @@
----
-layout: about
-title: About
-ShowBreadCrumbs: false
-ShowToc: false
-author: Justin
-date: "2022-12-09"
-#description: About Aussienomics
-#tags:
-#- news
-toc: false
----
++++
+title = "About"
+date = "2022-12-09"
+author = "Justin"
++++
 
 Aussienomics is an Australian economics-themed blog (although I also post on many other topics). It was created in 2009 but was in hibernation for nearly a decade between 2013 and late-2022. 
 

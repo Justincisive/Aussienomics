@@ -1,0 +1,11 @@
+body:not(.light-theme) .logo img {
+	filter: invert(1);
+    -webkit-filter: invert(1);
+}
+.logo img {
+    height: 55px; }
+.header {
+  padding: 15px; }
+blockquote {
+  margin: 10px 40px;
+}
