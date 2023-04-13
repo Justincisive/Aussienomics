@@ -14,4 +14,4 @@ Here's a snippet from the original 2009 About page:
 
 Aussienomics is written in Markdown, compiled with Hugo, served by Netlify and hosted on GitHub. Comments are powered by [Remark42](https://github.com/umputun/remark42).
 
-If this is your first visit feel free start browsing the [main page](/), or check out the [archives](/archives) for some of our older content. If you have any questions shoot me an [email](mailto:justin@aussienomics.com) and I'll get back to you as soon as I can.
+If this is your first visit feel free start browsing the [main page](/), or check out the [archive](/archive) for some of our older content. If you have any questions shoot me an [email](mailto:justin@aussienomics.com) and I'll get back to you as soon as I can.
