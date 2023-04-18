@@ -9,3 +9,11 @@ body:not(.light-theme) .logo img {
 blockquote {
   margin: 10px 40px;
 }
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+/* img + em { 
+  margin-left: auto;
+  text-align: center;
+} */
