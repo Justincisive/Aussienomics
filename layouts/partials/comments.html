@@ -1,8 +1,44 @@
+  <div id="remark42"></div>
+
+<script>
+    const defaultTheme = "light";
+    function getHelloFriendTheme() {
+      const theme = localStorage && localStorage.getItem("theme");
+      if (!theme) {
+        return defaultTheme;
+      } else {
+        return theme;
+      }
+    }
+</script>
+
 <script>
   var remark_config = {
     host: 'https://banter.aussienomics.com',
     site_id: 'banter',
-  }
+	theme: getHelloFriendTheme(),
+	show_email_subscription: false,
+	show_rss_subscription: false,
+  };
 </script>
-<script>!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);</script>
-  <div id="remark42"></div>
+
+<script>
+  !(function (e, n) {
+    for (var o = 0; o < e.length; o++) {
+      var r = n.createElement("script"),
+        c = ".js",
+        d = n.head || n.body;
+      "noModule" in r ? ((r.type = "module"), (c = ".mjs")) : (r.async = !0),
+        (r.defer = !0),
+        (r.src = remark_config.host + "/web/" + e[o] + c),
+        d.appendChild(r);
+    }
+  })(remark_config.components || ["embed"], document);
+</script>
+
+<script>
+  const themeToggle = document.querySelector(".theme-toggle");
+  themeToggle.addEventListener("click", () => {
+    setTimeout(() => window.REMARK42.changeTheme(getHelloFriendTheme()), 10);
+  });
+</script>
