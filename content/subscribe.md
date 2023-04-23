@@ -4,7 +4,7 @@ date = "2023-04-23"
 author = "Justin"
 +++
 
-I don't currently send out emails, but I might in the future. If that's something that is of interest, then subscribe below:
+I don't currently send out emails, but I might in the future. If that's something that might interest you, you can use the form below to subscribe:
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/aussienomics"
@@ -18,4 +18,4 @@ I don't currently send out emails, but I might in the future. If that's somethin
   <input style="background-color: #e7e7e7; color: black;border: none;padding: 1rem 2rem;text-align: center;text-decoration: none;display: inline-block;" type="submit" value="Subscribe" />
 </form>
 
-If enough people sign up I'll certainly start sending posts as part of a newsletter!
+If enough people sign up for a newsletter then I'll certainly consider adding it as a feature at some point!
