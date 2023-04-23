@@ -12,6 +12,8 @@ Here's a snippet from the original 2009 About page:
 > 
 > Every attempt will be made to ensure that the commentary and suggested solutions are profound yet simple, intuitive and practical. Economic analysis on this site will be founded in realism and will hopefully help both the layman and professional alike to understand real world problems and provide real world solutions."
 
-Aussienomics is written in Markdown, compiled with Hugo, served by Netlify and hosted on GitHub. Comments are powered by [Remark42](https://github.com/umputun/remark42).
+Aussienomics is written in Markdown, compiled with Hugo, served by Netlify and hosted on GitHub. Comments are powered by [Remark42](https://github.com/umputun/remark42) hosted on Oracle Cloud.
 
-If this is your first visit feel free start browsing the [main page](/), or check out the [archive](/archive) for some of our older content. If you have any questions shoot me an [email](mailto:justin@aussienomics.com) and I'll get back to you as soon as I can.
+If this is your first visit feel free start browsing the [main page](/), or check out the [archive](/archive) for some of our older content. I don't currently send out posts as part of a newsletter, despite that being all the rage these days (thanks, Substack!). But I might in the future, so if that interests you then go ahead and subscribe [here](/subscribe).
+
+If you have any questions shoot me an [email](mailto:justin@aussienomics.com) and I'll get back to you as soon as I can.
