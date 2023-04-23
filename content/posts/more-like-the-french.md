@@ -4,10 +4,8 @@ ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
 date: "2023-04-13T13:32:00+08:00"
-#description: "The Greens Member for Griffith, Max Chandler-Mather, claimed that 'building luxury apartment towers makes the housing crisis worse'.\n\n
-But Max is wrong: building any form of housing, even luxury housing, creates a domino effect, freeing up housing elsewhere."
+#description: 
 tags:
-- economics
 - France
 - productivity
 backtotop: true

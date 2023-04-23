@@ -6,7 +6,6 @@ author: Justin
 date: "2023-04-04T15:29:00+08:00"
 #description: Summary here.
 tags:
-- economics
 - monetary policy
 - inflation
 backtotop: true

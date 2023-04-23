@@ -6,7 +6,6 @@ author: Justin
 date: "2023-03-24T07:20:00+08:00"
 #description: Summary here.
 tags:
-- economics
 - housing
 backtotop: true
 toc: false

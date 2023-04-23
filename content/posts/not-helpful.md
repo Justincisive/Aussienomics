@@ -6,7 +6,7 @@ author: Justin
 date: "2023-02-04T14:29:00+08:00"
 #description: Summary here
 tags:
-- envionment
+- environment
 backtotop: true
 toc: false
 #images:
