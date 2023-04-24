@@ -1,7 +1,5 @@
 +++
 title = "About"
-date = "2022-12-09"
-author = "Justin"
 +++
 
 Aussienomics is an Australian economics-themed blog (although I also post on many other topics). It was created in 2009 but was in hibernation for nearly a decade between 2013 and late-2022. 

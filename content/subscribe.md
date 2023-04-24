@@ -1,10 +1,8 @@
 +++
 title = "Subscribe"
-date = "2023-04-23"
-author = "Justin"
 +++
 
-I don't currently send out emails, but I might in the future. If that's something that might interest you, you can use the form below to subscribe:
+I don't currently send out emails, but I may in the future. If that's something that might interest you, you can use the form below to subscribe:
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/aussienomics"
