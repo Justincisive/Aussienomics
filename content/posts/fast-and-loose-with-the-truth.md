@@ -57,7 +57,7 @@ What we can see in the image above is that rents started to take off in early 20
 
 So according to Garnaut, migrants were driving up rents before the borders opened. They also continued to drive up rents in 2022, despite net migration in that year being below every prior year since 2006 -- a period during which migrants somehow didn't drive up rents by as much, even though dwelling investment was lower? Garnaut clearly needs to reevaluate his model.
 
-Garnaut is right that Australia needs to improve its competition policy. The states and territories should probably also look at royalty reform to automatically capture some additional rents when commodity prices reach the stratosphere. Zoning laws should absolutely be changed to fix the housing mess. And governments at all levels should be held accountable for their reckless, debt-financed spending during a period of full employment and high inflation.
+Now Garnaut is right that Australia needs to improve its competition policy. The states and territories should probably also look at royalty reform to automatically capture some additional rents when commodity prices reach the stratosphere. Zoning laws should absolutely be changed to fix the housing mess. And governments at all levels should be held accountable for their reckless, debt-financed spending during a period of full employment and high inflation.
 
 But will Garnaut's speech do anything to actually address these issues? Not a chance. And it's a real shame, too: when people who are actually in a position to influence policy such as Garnaut play fast and loose with the truth, it does a disservice to everyone who wants to improve the very poor standard of policymaking in this otherwise fine country of ours. 
 
