@@ -51,7 +51,7 @@ But that's a minor quibble compared to his other claims. Let's take a look at [r
 
 ![Rent increases in Australia](/images/au-rents-may-23.jpg) *Advertised rents were rising well before Australia's borders opened.*
 
-What we can see in the image above is that rents started to take off in early 2021, well before Australia's borders began to open on 1 November 2021. If we look at the [next chart](https://www.abs.gov.au/statistics/people/population/overseas-migration/latest-release), we can see that not only did Australia have negative net overseas migration in 2021, but the rise in 2022 was also the lowest annual increase since 2006:
+What we can see in the image above is that rents started to take off in early 2021 (rents in the CPI lag advertised rents by 12-18 months), well before Australia's borders began to open on 1 November 2021. If we look at the [next chart](https://www.abs.gov.au/statistics/people/population/overseas-migration/latest-release), we can see that not only did Australia have negative net overseas migration in 2021, but the rise in 2022 was also the lowest annual increase since 2006:
 
 ![Net overseas migration into Australia](/images/migration-au-may-23.jpg) *How could migrants be driving up rents when they weren't here?*
 
