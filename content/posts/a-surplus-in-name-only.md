@@ -27,7 +27,7 @@ So when the Budget is released tonight, ignore the underlying cash balance and i
 
 ### The revenue
 
-The government's revenue -- which is what caused the surplus, not spending restraint -- has risen by so much for two main reasons. The first is Australia's lucky position as a major commodity exporter. Global demand has for our resources been strong, greatly increasing company tax receipts (at 30%, Australia has one of the highest corporate tax rates in the world). 
+The government's revenue -- which is what caused the surplus, not spending restraint -- has risen by so much for two main reasons. The first is Australia's lucky position as a major commodity exporter. Global demand for our resources has been strong, greatly increasing company tax receipts (at 30%, Australia has one of the highest corporate tax rates in the world). 
 
 The second is higher income and other tax receipts stemming from domestic demand: Nominal Gross Domestic Product (NGDP) in Australia has quite literally been off the charts since the pandemic, a result of the Coalition's (and the States') reckless, debt-financed spending which the Reserve Bank of Australia (RBA) failed to adequately offset.
 
