@@ -75,4 +75,4 @@ summaryLength = "50"
 
 	# needed for contact/subscribe forms
 [markup.goldmark.renderer] 
-  unsafe = true 
+  unsafe = true
