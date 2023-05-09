@@ -36,7 +36,7 @@ summaryLength = "50"
 [languages]
   [languages.en]
     title = "Aussienomics"
-    subtitle = "Thoughts on the day's economic, political and social issues in Australia."
+    subtitle = "Economic, political and social issues in Australia."
     keywords = ""
     copyright = "&copy; 2023 Aussienomics"
     menuMore = "Show more"
