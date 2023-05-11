@@ -40,6 +40,4 @@ Without migration to prop up the bottom half of the demographic pyramid ~~scheme
 
 There are no easy answers to this problem. But having a sensible, well-devised migration policy is one very important piece of the puzzle. And fixing the country's migration policy should be a high priority: a [recent review](https://www.homeaffairs.gov.au/reports-and-publications/reviews-and-inquiries/departmental-reviews/migration-system-for-australias-future) of Australia's migration system deemed it "not fit for purpose", concluding that fixing it "involves making difficult decisions about trade-offs". 
 
-Difficult decisions and considering trade-offs are skills that do not come naturally to politicians, who much prefer throwing money around in the hope that the issue goes away -- for at least another electoral cycle, anyway. 
-
 Unfortunately Peter Dutton's use of migration as a political weapon, and the government's retort "that migration would have been higher under their [the Coalition's] figures", signals that neither major party is willing to make the difficult decisions required to solve the issue of an ageing society that promised itself benefits we cannot afford.
