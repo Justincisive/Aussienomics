@@ -16,7 +16,7 @@ images:
 
 The United States is a quirky place, and its mortgage industry is no exception. Instead of borrowing at variable rates like we do Down Under, when you take out a mortgage in the good ol' US of A you're generally locking in the rate for 15 or 30 years. 
 
-Now banks borrow short and lend long -- how on Earth do they manage the enormous risk of maturity mismatch that this model would create? The simple answer is that they don't; a legacy of the Great Depression, most US bank-issued mortgages are sold on to the US Government (Fannie Mae or Freddie Mac), which then guarantee it against default, package it up with a bunch of other mortgages into what's known as a mortgage-backed security, and sell it on to investors (or the US Federal Reserve if no buyers can be found, as was the case during the Great Recession).
+Now banks borrow short and lend long -- how on Earth do they manage the enormous risk of maturity mismatch that this model entails? The simple answer is that they don't; a legacy of the Great Depression, most US bank-issued mortgages are sold on to the US Government (Fannie Mae or Freddie Mac), which then guarantee it against default, package it up with a bunch of other mortgages into what's known as a mortgage-backed security, and sell it on to investors (or the US Federal Reserve if no buyers can be found, as was the case during the Great Recession).
 
 In other words, the US taxpayer takes on all the risk of that 30-year, fixed rate mortgage (FRM). And it's [not a great deal](https://www.researchgate.net/profile/Michael-Lea/publication/228182552_Government_Policy_and_the_Fixed-Rate_Mortgage/links/57c465d008aeb04914357bbc/Government-Policy-and-the-Fixed-Rate-Mortgage.pdf):
 
