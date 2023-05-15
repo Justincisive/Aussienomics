@@ -1,4 +1,4 @@
-body:not(.light-theme) .logo img {
+body:not(.light-theme) img {
 	filter: invert(1);
     -webkit-filter: invert(1);
 }
