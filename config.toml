@@ -1,7 +1,19 @@
 baseurl = "/"
 languageCode = "en-us"
-# Add it only if you keep the theme in the `themes` directory.
-# Remove it if you use the theme as a remote Hugo Module.
+title = "Aussienomics"
+subtitle = "Economic, political and social issues in Australia."
+copyright = "&copy; 2023 Aussienomics"
+menuMore = "Show more"
+writtenBy = "by"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+minuteReadingTime = "min read"
+dateFormatSingle = "2006-01-02"
+dateFormatList = "2006-01-02"
+# leave empty to disable, enter display text to enable
+# lastModDisplay = ""
 theme = "hello-friend"
 paginate = 5
 summaryLength = "50"
@@ -33,45 +45,26 @@ summaryLength = "50"
 [permalinks]
   posts = '/:title/'
 
-[languages]
-  [languages.en]
-    title = "Aussienomics"
-    subtitle = "Economic, political and social issues in Australia."
-    keywords = ""
-    copyright = "&copy; 2023 Aussienomics"
-    menuMore = "Show more"
-    writtenBy = "by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
-    # leave empty to disable, enter display text to enable
-    # lastModDisplay = ""
-
-    [languages.en.params.logo]
-    #  logoText = "Aussienomics"
-    #  logoHomeLink = "/"
-    # or
-    #
-     path = "/img/aussienomics.png"
-     alt = "Aussienomics"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "archive"
-        name = "Archive"
-        url = "/archive"
-      [[languages.en.menu.main]]
-        identifier = "subscribe"
-        name = "Subscribe"
-        url = "/subscribe"
+[params.logo]
+#  logoText = "Aussienomics"
+#  logoHomeLink = "/"
+# or
+#
+path = "/img/aussienomics.png"
+alt = "Aussienomics"
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+[[menu.main]]
+identifier = "archive"
+name = "Archive"
+url = "/archive"
+[[menu.main]]
+identifier = "subscribe"
+name = "Subscribe"
+url = "/subscribe"
 
 	# needed for contact/subscribe forms
 [markup.goldmark.renderer] 
