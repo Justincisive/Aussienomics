@@ -15,7 +15,7 @@ images:
 
 Ah, Vienna. According to [The Economist](https://www.eiu.com/n/eius-global-liveability-index-hits-a-15-year-high/), the small central European city -- it has an urban population of around 2 million -- is, for the second straight year, the world's most liveable city.
 
-Understandably, that warrants investigation: what is Vienna doing so well, and can we replicate it elsewhere? Enter the NYT, which [last month](https://www.nytimes.com/2023/05/23/magazine/vienna-social-housing.html) described Vienna a "renters' utopia":
+Understandably, that warrants investigation: what is Vienna doing so well, and can we replicate it elsewhere? Enter the NYT, which [last month](https://www.nytimes.com/2023/05/23/magazine/vienna-social-housing.html) described Vienna as a "renters' utopia":
 
 > "Experts refer to Vienna’s Gemeindebauten as 'social housing,' a phrase that captures how the city's public housing and other limited-profit housing are a widely shared social benefit: The Gemeindebauten welcome the middle class, not just the poor. In Vienna, a whopping 80 percent of residents qualify for public housing, and once you have a contract, it never expires, even if you get richer. Housing experts believe that this approach leads to greater economic diversity within public housing — and better outcomes for the people living in it.
 > 
