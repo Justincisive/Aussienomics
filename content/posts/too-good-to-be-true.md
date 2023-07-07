@@ -14,7 +14,7 @@ images:
 #- /images/cpi-feb-23.jpg
 ---
 
-Not a day goes by when someone hits up the media with claims that they're sitting on the proverbial gold mind, *if only* government would stump up a bit of cash. That someone is often a person who has a direct financial interest in the idea, and/or has done quite well at a previous venture, so brings [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias) into play. I've been successful in the past; trust me when I say that *this* is a *sure thing*!
+Not a day goes by without someone claiming that they're sitting on the proverbial gold mind, *if only* government would stump up a bit of cash. That someone is often a person who has a direct financial interest in the idea, and/or has done quite well at a previous venture, so brings [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias) into play. I've been successful in the past; trust me when I say that *this* is a *sure thing*!
 
 Alas, in the real world governments that listen to these people often end up losing whatever taxpayer monies are given to them. Not because the projects fail -- they might operate for a considerable amount of time -- but because their continuance often depends on a *constant* flow of government assistance. This week's lesson in why industrial policy is generally a bad idea comes from the [land of the free](https://www.wsj.com/articles/elon-musk-tesla-buffalo-new-york-solar-plant-1b634b9e):
 
