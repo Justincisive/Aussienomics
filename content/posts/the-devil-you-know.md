@@ -38,7 +38,7 @@ That's right, the very JobKeeper that was implemented so well that "$25 billion 
 
 Last but not least there's Kennedy, the current Treasury secretary. He was on the RBA board during the ill-conceived stimulus of 2020-21 and like Wilkinson was "a key architect of the Covid stimulus response". So not only are his fingers all over the RBA's monetary policy errors, he's also at least partially responsible for fiscal mistakes such as JobKeeper and the dubious bailouts given to the likes of Qantas, which scored itself around [$2 billion](https://www.theguardian.com/business/2021/jul/22/qantas-on-track-to-collect-2bn-of-support-as-morrison-government-criticised-for-not-seeking-stake) for which the government received no equity and placed no repayment triggers, unlike governments [in other countries](https://www.aljazeera.com/economy/2020/3/27/singapore-airlines-gets-13bn-lifeline-as-airlines-beg-for-help).
 
-But in government, grand failures that might cause us regular Joe's to suggest gross incompetence are often rewarded with medals and promotions, so it's no surprise that Kennedy and Wilkinson are both front runners for the high-status RBA governorship position. 
+But in government, grand failures that might cause us regular Joe's to suggest gross incompetence are often rewarded with medals and [promotions](https://www.smh.com.au/politics/federal/robo-debt-public-servant-on-leave-amid-doubts-over-whether-she-will-stay-in-900k-job-20230707-p5dmn4.html), so it's no surprise that Kennedy and Wilkinson are both front runners for the high-status RBA governorship position. 
 
 Sometimes all that matters is who you know, especially in Canberra.
 
