@@ -12,8 +12,7 @@ backtotop: true
 toc: false
 images:
 ---
-
-I'm a bit late to the party but for those still not aware, Harvard's Claudia Goldin won this year's Nobel Prize in Economics for her work on women's labour market outcomes. The Nobel Committee provided a very good [press release](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/); a 7-page '[popular economics](https://www.nobelprize.org/uploads/2023/10/popular-economicsciencesprize2023.pdf)' brief, as well as a much longer [advanced report](https://www.nobelprize.org/uploads/2023/10/advanced-economicsciencesprize2023.pdf) that delves into her scientific contributions more deeply. Do check them out.
+I'm a bit late to the party but for those still not aware, Harvard's Claudia Goldin won this year's Nobel Prize in Economics for her work on women's labour market outcomes. The Nobel Committee provided a very good [press release](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/); a 7-page '[popular economics](https://www.nobelprize.org/uploads/2023/10/popular-economicsciencesprize2023.pdf)' brief; as well as a much longer [advanced report](https://www.nobelprize.org/uploads/2023/10/advanced-economicsciencesprize2023.pdf) that delves into her scientific contributions more deeply. Do check them out.
 
 One of Goldin's key contributions is on the gender pay gap. There's a lot of misinformation in this space -- for example, the Albanese government [has a commitment](https://ministers.pmc.gov.au/gallagher/2023/gender-pay-gap-drops-lowest-level-record-under-albanese-labor-government) to "close the gender pay gap" -- a task that, using Goldin's insights, is unachievable without recognising why the gap exists in the first place. Comparing averages, such as the Minister for Women Katy Gallagher recently did, is at best naive, at worst extremely deceptive:
 
