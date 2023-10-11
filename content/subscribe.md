@@ -11,8 +11,8 @@ I don't currently send out emails, but I may in the future. If that's something 
   onsubmit="window.open('https://buttondown.email/aussienomics', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email</label>
-  <input style="width: 100%;padding: 1rem 2rem;margin: 8px 0;box-sizing: border-box;" type="email" name="email" id="bd-email" />
+
+  <input placeholder="your@name.com" style="width: 70%;padding: 1rem 2rem;margin: 8px 0;box-sizing: border-box;" type="email" name="email" id="bd-email" />
   <input style="background-color: #e7e7e7; color: black;border: none;padding: 1rem 2rem;text-align: center;text-decoration: none;display: inline-block;" type="submit" value="Subscribe" />
 </form>
 
