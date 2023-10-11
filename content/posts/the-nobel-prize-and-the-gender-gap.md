@@ -21,7 +21,7 @@ One of Goldin's key contributions is on the gender pay gap. There's a lot of mis
 
 Goldin showed that there are two kinds of gender gaps, employment and earnings. In Australia, the former has narrowed as [participation rates](https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/aug-2023) of men and women changed over time: men dropped from a 84.2% participation rate in 1966 to 71.7% today, while women have dramatically increased theirs from 36.6% to 62.5%. 
 
-![Participation rates over time](/images/participation-oct-23.png)  *The pParticipation rate gap has narrowed over time.*
+![Participation rates over time](/images/participation-oct-23.png)  *The participation rate gap has narrowed over time.*
 
 By digging through historical archives, Goldin revealed -- contrary to what was popular belief for a long time -- that back in the early part of last century women actually had similar rates of workforce participation as they do today. But as the world industrialised and machines replaced the need for farm workers, their participation rates dropped off, presumably because someone had to stay home with the kids. Goldin attributes the modern revival in women's participation to contraception and various other changes that empowered women, leading to a rise in formal education and employment.
 
