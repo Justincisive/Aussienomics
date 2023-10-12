@@ -3,15 +3,13 @@ title: Monetary policy and golden handcuffs
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2023-05-15T09:44:00+08:00"
-#description: 
+date: 2023-05-15T09:44:00+08:00
 tags:
-- monetary policy
-- housing
+  - housing
+  - monetary-policy
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
 
 The United States is a quirky place, and its mortgage industry is no exception. Instead of borrowing at variable rates like we do Down Under, when you take out a mortgage in the good ol' US of A you're generally locking in the rate for 15 or 30 years. 

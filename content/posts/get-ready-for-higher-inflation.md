@@ -3,16 +3,15 @@ title: Get ready for higher inflation
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2023-04-21T13:57:00+08:00"
-#description: 
+date: 2023-04-21T13:57:00+08:00
 tags:
-- monetary policy
-- inflation
-- employment
+  - inflation
+  - employment
+  - monetary-policy
 backtotop: true
 toc: false
 images:
-- /images/cpi-feb-23.jpg
+  - /images/cpi-feb-23.jpg
 ---
 
 Yesterday the government released the [independent review](https://www.afr.com/politics/federal/all-51-recommendations-from-the-rba-review-20230420-p5d1vl) of the Reserve Bank of Australia (RBA), along with confirmation that it would accept all of its recommendations.

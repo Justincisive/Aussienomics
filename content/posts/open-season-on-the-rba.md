@@ -3,17 +3,14 @@ title: Open season on the RBA
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2023-04-18T10:28:00+08:00"
-#description: "The Greens Member for Griffith, Max Chandler-Mather, claimed that 'building luxury apartment towers makes the housing crisis worse'.\n\n
+date: 2023-04-18T10:28:00+08:00
 But Max is wrong: building any form of housing, even luxury housing, creates a domino effect, freeing up housing elsewhere."
 tags:
-- monetary policy
-- inflation
-- employment
+  - inflation
+  - employment
+  - monetary-policy
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
 
 It must be open season on the Reserve Bank of Australia (RBA), because the central bank was recently savaged by both Deloitte Access Economics and business journalist Alan Kohler, for very similar reasons. First [Deloitte](https://www.news.com.au/finance/economy/australian-economy/rbas-unnecessary-rate-rises-slammed-by-experts-as-consumer-recession-looms/news-story/316c8eac93ae81ebd480c63aa8620113):

@@ -3,15 +3,12 @@ title: A natural experiment
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2023-04-09T13:47:00+08:00"
-#description: Summary here.
+date: 2023-04-09T13:47:00+08:00
 tags:
-- monetary policy
-- inflation
+  - inflation
+  - monetary-policy
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
 
 Last week witnessed two fascinating developments in the monetary realm. First, the Reserve Bank of Australia (RBA) [put a halt](https://www.rba.gov.au/media-releases/2023/mr-23-08.html) to its tightening cycle, citing the long and variable lags of monetary policy and the need to assess the impact of the interest rate hike on the economy:

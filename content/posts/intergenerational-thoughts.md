@@ -3,15 +3,13 @@ title: Intergenerational thoughts
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2023-08-24T15:21:00+08:00"
-#description: 
+date: 2023-08-24T15:21:00+08:00
 tags:
-- environment
-- climate change
+  - environment
+  - climate-change
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
 
 The Treasury's latest [Intergenerational Report](https://treasury.gov.au/publication/2023-intergenerational-report) has [made headlines](https://www.smh.com.au/politics/federal/global-warming-to-cost-australia-up-to-423-billion-over-40-years-20230823-p5dyvx.html) for the following claim:

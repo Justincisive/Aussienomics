@@ -3,16 +3,13 @@ title: A relic of the 1970s
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2023-01-28T09:51:00+08:00"
-#description: Summary here
+date: 2023-01-28T09:51:00+08:00
 tags:
-- industrial policy
-- politics
-- 1970s
+  - politics
+  - 1970s
+  - industrial-policy
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
 
 *Plus ça change, plus c'est la même chose.*

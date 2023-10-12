@@ -3,15 +3,13 @@ title: Beyond foolish
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2023-05-03T15:53:00+08:00"
-#description: 
+date: 2023-05-03T15:53:00+08:00
 tags:
-- monetary policy
-- price controls
+  - monetary-policy
+  - price-controls
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
 
 On Tuesday the Reserve Bank of Australia (RBA) surprised everyone, hiking rates by 25 basis points to combat persistent inflation (financial markets [were pricing in](https://www.forex.com/ie/news-and-analysis/aud-outlook-the-rba-surprise-with-a-25bp-hike-with-potential-for-more-to-follow/) 100% chance of no change). 

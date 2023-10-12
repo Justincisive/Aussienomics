@@ -3,15 +3,13 @@ title: Building a moat
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2023-05-18T17:52:00+08:00"
-#description: 
+date: 2023-05-18T17:52:00+08:00
 tags:
-- artificial intelligence
-- regulation
+  - regulation
+  - artificial-intelligence
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
 
 An internal Google document leaked [at the start of this month](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) claimed that "We have no moat and neither does OpenAI". The document was, of course, referring to the fact that in the arms race of AI, there are no barriers to slow down potential competitors. The technology itself is not new, and every day people are coming up with [new ways](https://lmsys.org/blog/2023-03-30-vicuna/) to do "with $100 and 13B params that we struggle with at $10M and 540B".

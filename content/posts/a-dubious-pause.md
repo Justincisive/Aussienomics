@@ -3,15 +3,12 @@ title: A dubious pause
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2023-04-04T15:29:00+08:00"
-#description: Summary here.
+date: 2023-04-04T15:29:00+08:00
 tags:
-- monetary policy
-- inflation
+  - inflation
+  - monetary-policy
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
 
 The Reserve Bank of Australia (RBA) [ended its run](https://www.rba.gov.au/media-releases/2023/mr-23-08.html) of ten consective rate hikes at its meeting today, leaving the cash rate unchanged at 3.6%. That's ten hikes excluding January of course, which for some reason is a month during which the RBA Board does not meet.

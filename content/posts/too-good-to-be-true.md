@@ -3,15 +3,13 @@ title: Too good to be true
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
-date: "2023-07-08T06:00:00+08:00"
-#description: 
+date: 2023-07-08T06:00:00+08:00
 tags:
-- industrial policy
-- energy
+  - energy
+  - industrial-policy
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
 
 Not a day goes by without someone claiming that they're sitting on the proverbial gold mine, *if only* government would stump up a bit of cash. That someone is often a person who has a direct financial interest in the idea, and/or has done quite well at a previous venture, so brings [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias) into play. I've been successful in the past; trust me when I say that *this* is a *sure thing*!
