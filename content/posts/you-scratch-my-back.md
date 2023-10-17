@@ -38,6 +38,6 @@ People spend a lot of time and energy arguing for and against 'left' this, or 'r
 
 The system is set up to allow crony capitalism to flourish and Mark McGowan and Dan Andrews are just two recent examples of where it has been pushed to its absolute limits -- they truly are giving it to us good and hard! 
 
-**The Government is understandably cagey about how much it has pissed away into Mineral Resources' coffers to 'protect' a handful of jobs. $250 million is my back of the envelope calculation but you can work it yourself using the information provided in [Hansard](https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/511112B93C0EA9B048258574002115D2?opendocument). Average iron ore price * 30 million tonnes * 7.5% (the State's royalty rate).*
+**The Government is understandably cagey about how much it has pissed away into Mineral Resources' coffers to 'protect' a handful of jobs. $250 million is my back of the envelope calculation but you can estimate it yourself using the information provided in [Hansard](https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/511112B93C0EA9B048258574002115D2?opendocument). Average iron ore price * 30 million tonnes * 7.5% (the State's royalty rate).*
 
 
