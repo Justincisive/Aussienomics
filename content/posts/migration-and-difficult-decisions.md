@@ -2,18 +2,15 @@
 title: Migration and difficult decisions
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-05-11T05:01:00+08:00"
-#description: 
+author: Justin Pyvis
+date: 2023-05-11T05:01:00+08:00
 tags:
-- migration
-- budget
+  - migration
+  - budget
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
-
 Tuesday night's federal Budget [forecast a](https://www.theguardian.com/australia-news/2023/may/10/australias-post-pandemic-surge-in-net-overseas-migration-temporary-federal-budget-predicts) "surge in net overseas migration" over the next couple of years, as fewer people leave and many overseas students, skilled temporary visa holders and working holidaymakers return following the pandemic. 
 
 The "surge" is expected to be temporary -- a rebound from the huge *decline* in net migration during the pandemic -- but never one to miss out on a headline, opposition leader Peter Dutton [went on the attack](https://www.smh.com.au/national/australia-news-live-medicare-gets-24-billion-funding-boost-in-budget-treasurer-delivers-4-2-billion-surplus-20230510-p5d759.html?post=p54tto#p54tto):

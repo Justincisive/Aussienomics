@@ -2,17 +2,13 @@
 title: The housing future fund
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-03-24T07:20:00+08:00"
-#description: Summary here.
+author: Justin Pyvis
+date: 2023-03-24T07:20:00+08:00
 tags:
-- housing
+  - housing
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 The Australian government wants to create affordable housing. An admirable goal, although [the means](https://ministers.treasury.gov.au/ministers/julie-collins-2022/media-releases/housing-australia-future-fund-draft-legislation) leave a lot to be desired:
 
 > "The $10 billion Housing Australia Future Fund will provide ongoing investment returns to deliver new social and affordable homes as well as investments to address acute housing needs. Returns from the fund will deliver the Government's commitment of 30,000 new social and affordable homes in the fund's first five years, including 4,000 homes for women and children impacted by family and domestic violence or older women at risk of homelessness."

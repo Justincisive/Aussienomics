@@ -2,7 +2,7 @@
 title: Get ready for higher inflation
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-04-21T13:57:00+08:00
 tags:
   - inflation
@@ -13,7 +13,6 @@ toc: false
 images:
   - /images/cpi-feb-23.jpg
 ---
-
 Yesterday the government released the [independent review](https://www.afr.com/politics/federal/all-51-recommendations-from-the-rba-review-20230420-p5d1vl) of the Reserve Bank of Australia (RBA), along with confirmation that it would accept all of its recommendations.
 
 I'm not going to go over all 51 of them here but will say that on balance it appears to be little more than tinkering on the margin, an outcome that was always likely given the authors: a former Canadian central banker, a former Treasury bureaucrat and an academic. 

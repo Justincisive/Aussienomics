@@ -2,16 +2,15 @@
 title: Create your own fediverse instance (for free!)
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2022-12-25T09:14:00+08:00"
+author: Justin Pyvis
+date: 2022-12-25T09:14:00+08:00
 description: How to install Soapbox and Pleroma Rebased on Oracle's Always Free cloud server using Ubuntu. A step by step guide.
 tags:
-- tech
-- off-topic
+  - tech
+  - off-topic
 backtotop: true
 toc: false
 ---
-
 Had enough of Twitter and Facebook and want to stake your claim on the fediverse, a social network of decentralised, autonomous servers running on open source software? Look no further! I'm going to show you how to get Soapbox (frontend) and Pleroma Rebased (backend) up and running on your own server, for free.
 
 If you read my [previous article](/installing-ghost-onto-oracle-cloud-always-free/) on installing the Ghost newsletter software on Oracle's Always Free cloud server using Ubuntu, what follows should be somewhat familiar to you.

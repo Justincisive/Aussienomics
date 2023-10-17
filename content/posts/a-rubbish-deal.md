@@ -2,17 +2,13 @@
 title: A rubbish deal
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-03-13T16:47:00+08:00"
-#description: Summary here.
+author: Justin Pyvis
+date: 2023-03-13T16:47:00+08:00
 tags:
-- politics
+  - politics
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 The NSW Liberal Party, if it wins re-election this year, [will create](https://www.aap.com.au/news/nsw-liberals-to-seed-400-future-accounts-for-children/) "the most significant financial security investment in NSW history":
 
 > "Under a coalition government, every child aged 10 and under in 2023 in NSW, and every newborn thereafter, will receive a fund with a starting investment of $400.

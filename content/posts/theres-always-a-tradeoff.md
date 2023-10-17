@@ -2,7 +2,7 @@
 title: There's always a trade-off
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-03-14T16:01:00+08:00
 tags:
   - finance
@@ -10,7 +10,6 @@ tags:
 backtotop: true
 toc: false
 ---
-
 By now everyone should be aware of the drama in the US surrounding Silicon Valley Bank (SVB), Signature Bank, and many other unnamed banks that a "senior Treasury official" [said]( https://www.nbcnews.com/business/business-news/treasury-says-will-back-silicon-valley-bank-deposits-rcna74570) might have similar issues.
 
 Essentially these banks attracted a lot of deposits by offering favourable conditions and then used the cash to buy long-dated government bonds, making a silly, unhedged bet that rates would stay low and they could profit on the interest differential. Bonds are, after all, super safe -- the Basel regulatory framework assigns them a zero risk weighting -- and held to maturity, they are redeemable at full value (assuming the government doesn't default). 

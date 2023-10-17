@@ -2,9 +2,8 @@
 title: Open season on the RBA
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-04-18T10:28:00+08:00
-But Max is wrong: building any form of housing, even luxury housing, creates a domino effect, freeing up housing elsewhere."
 tags:
   - inflation
   - employment
@@ -12,7 +11,6 @@ tags:
 backtotop: true
 toc: false
 ---
-
 It must be open season on the Reserve Bank of Australia (RBA), because the central bank was recently savaged by both Deloitte Access Economics and business journalist Alan Kohler, for very similar reasons. First [Deloitte](https://www.news.com.au/finance/economy/australian-economy/rbas-unnecessary-rate-rises-slammed-by-experts-as-consumer-recession-looms/news-story/316c8eac93ae81ebd480c63aa8620113):
 
 > "Our view remains unchanged – the additional 50 basis points of increases earlier this year were unnecessary, and have prompted a further downgrade in Australia's growth outlook. That downgrade is centred on our households, and a ‘consumer recession’ is now forecast in 2023, with household spending expected to finish the year below where it started."

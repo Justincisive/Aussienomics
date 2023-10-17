@@ -2,18 +2,14 @@
 title: More like the French
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-04-13T13:32:00+08:00"
-#description: 
+author: Justin Pyvis
+date: 2023-04-13T13:32:00+08:00
 tags:
-- France
-- productivity
+  - France
+  - productivity
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 You can 'live to work', or 'work to live'. The latter is definitely the case in France, [where](https://www.reuters.com/world/europe/france-witness-12th-nationwide-strike-against-macrons-pension-law-2023-04-13/) there's now "a twelfth nationwide day of protests against a bill that will make the French work longer":
 
 > "Some trains will be cancelled, and strike actions can also be expected among refinery workers, garbage collectors and teachers, at a time when opinion polls show a wide majority of voters still oppose pushing retirement age by two years to 64.

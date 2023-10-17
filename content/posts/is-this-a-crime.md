@@ -2,18 +2,15 @@
 title: Is this a crime?
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2022-12-30T07:40:00+08:00"
+author: Justin Pyvis
+date: 2022-12-30T07:40:00+08:00
 description: The economics of the Australian government's energy market intervention bill were awful. Now we find out it's going to cost an extra half a billion dollars up-front, and they willfully lied to rush it through Parliament.
 tags:
-- energy
-- politics
+  - energy
+  - politics
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 It certainly sounds like criminal activity perpetrated against the Australian taxpayer. From [The Australian](https://www.theaustralian.com.au/nation/politics/leaders-knew-of-450m-rio-compensation-says-annastacia-palaszczuk/news-story/399beb18f69fc502cf9247ded12ce734):
 
 > "Annastacia Palaszczuk says the federal and state governments knew taxpayers could be slugged up to $450m to compensate mining giant Rio Tinto when the national energy plan was rushed through parliament this month.

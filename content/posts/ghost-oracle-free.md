@@ -2,16 +2,15 @@
 title: Installing Ghost onto Oracle Cloud Always Free
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2022-12-09T18:29:00+08:00"
+author: Justin Pyvis
+date: 2022-12-09T18:29:00+08:00
 description: How to install Ghost on Oracle's Always Free cloud server using Ubuntu. A step by step guide.
 tags:
-- tech
-- off-topic
+  - tech
+  - off-topic
 backtotop: true
 toc: false
 ---
-
 Have you ever wanted to run your own newsletter, with your own domain, but didn't want to fork out for a virtual private server (VPS) or a paid Substack plan? I certainly did; if you're like me, here's a simple how-to guide.
 
 ## Step 1: Buy a domain name

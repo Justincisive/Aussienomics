@@ -2,7 +2,7 @@
 title: The devil you know
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-07-10T19:22:00+08:00
 tags:
   - politics
@@ -11,7 +11,6 @@ backtotop: true
 toc: false
 images:
 ---
-
 The Reserve Bank of Australia (RBA) will be getting a new governor this month, perhaps as soon as this week. According to [The Australian](https://www.theaustralian.com.au/business/economics/treasury-locks-in-secret-rba-shortlist-of-governor-candidates/news-story/4477478b994408cab5437a70a7b81754):
 
 > "A decision is due before the end of July, with Treasury having provided the Treasurer with a short list of candidates that Dr Chalmers will take to cabinet within the next fortnight.

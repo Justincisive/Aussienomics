@@ -2,7 +2,7 @@
 title: A natural experiment
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-04-09T13:47:00+08:00
 tags:
   - inflation
@@ -10,7 +10,6 @@ tags:
 backtotop: true
 toc: false
 ---
-
 Last week witnessed two fascinating developments in the monetary realm. First, the Reserve Bank of Australia (RBA) [put a halt](https://www.rba.gov.au/media-releases/2023/mr-23-08.html) to its tightening cycle, citing the long and variable lags of monetary policy and the need to assess the impact of the interest rate hike on the economy:
 
 > "The Board recognises that monetary policy operates with a lag and that the full effect of this substantial increase in interest rates is yet to be felt. The Board took the decision to hold interest rates steady this month to provide additional time to assess the impact of the increase in interest rates to date and the economic outlook.

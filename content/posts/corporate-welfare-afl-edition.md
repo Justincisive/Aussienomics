@@ -2,17 +2,14 @@
 title: Corporate welfare, AFL edition
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2022-12-24T09:18:00+08:00"
+author: Justin Pyvis
+date: 2022-12-24T09:18:00+08:00
 description: The AFL and Tasmania are after a new stadium and want the rest of Australia to pay for it. But the business case just doesn't stack up.
 tags:
-- sport
+  - sport
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 Imagine for a moment that you run a successful business -- in fact, the most successful business in your industry. You want to expand. You could issue equity or borrow the funds, but both of those options come with a hefty amount of risk. So why not just lobby government to pony [up most of the costs](https://www.foxsports.com.au/afl/afl-2022-tasmanian-team-by-2029-stadium-funding-plans-19th-afl-club-license-macquarie-point-federal-government-help-latest-news/news-story/98868972654d63a24d6b49653f87a49c):
 
 > "Tasmania is requesting $240 million in funding from the federal government in order to build the stadium to house the 19th AFL club from 2029.

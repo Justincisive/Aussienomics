@@ -2,7 +2,7 @@
 title: A dubious pause
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-04-04T15:29:00+08:00
 tags:
   - inflation
@@ -10,7 +10,6 @@ tags:
 backtotop: true
 toc: false
 ---
-
 The Reserve Bank of Australia (RBA) [ended its run](https://www.rba.gov.au/media-releases/2023/mr-23-08.html) of ten consective rate hikes at its meeting today, leaving the cash rate unchanged at 3.6%. That's ten hikes excluding January of course, which for some reason is a month during which the RBA Board does not meet.
 
 Was there a case for a pause? Sure: Retail sales [cooled somewhat](https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release) in February and Governor Lowe [recently](https://www.rba.gov.au/speeches/2023/sp-gov-2023-03-08.html) claimed that the (experimental) [monthly CPI indicator](https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/monthly-consumer-price-index-indicator/latest-release) looks to have peaked. But monthly inflation is still running at 6.8% year-on-year -- more than double the RBA's target of 2-3% -- and while monetary policy works with significant lags, real interest rates are still very much negative and the economy is running extremely hot (unemployment is at a 50-year low). 

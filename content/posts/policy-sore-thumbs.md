@@ -2,18 +2,14 @@
 title: Policy sore thumbs
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-03-06T07:42:00+08:00"
-#description: Summary here.
+author: Justin Pyvis
+date: 2023-03-06T07:42:00+08:00
 tags:
-- politics
-- productivity
+  - politics
+  - productivity
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 Former chair of Australia's Productivity Commission (1998-2013), Gary Banks, [took aim](https://www.theaustralian.com.au/commentary/ir-energy-bungling-puts-brakes-on-growth/news-story/9de0bd10ac0f6be79a746ce1b950effd) at a couple of the nation's recent "policy sore thumbs":
 
 > "We have a tax system that is more about redistribution than growth and looks set to become even more so. Much infrastructure spending seems to be about short-term politics rather than long-term economic benefit. And regulatory obstacles to new projects are becoming almost prohibitive, especially in the resource sector.

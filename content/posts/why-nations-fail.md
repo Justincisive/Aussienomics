@@ -2,17 +2,14 @@
 title: Why nations fail
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2022-12-15T11:18:00+08:00"
+author: Justin Pyvis
+date: 2022-12-15T11:18:00+08:00
 description: The Australian government's energy intervention bill will soon clear Parliament. But the unintended consequences of it will be felt for years to come.
 tags:
-- energy
+  - energy
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 The Australian government's energy market intervention bill will be [rammed through](https://www.sbs.com.au/news/article/damp-carpets-and-strong-debate-federal-parliament-is-back-for-a-surprise-encore-to-discuss-energy-bill/r06mq7u32) both houses of Parliament today with the support of the Greens and independent David Pocock. Less than a week old, the whole process has been rushed to the extent that the competition watchdog, the ACCC, [failed to define](https://www.afr.com/politics/federal/labor-forces-through-energy-bill-after-last-minute-tweak-20221213-p5c61w) what it meant by "new gas field", and Treasury officials struggled to answer questions.
 
 I [was skeptical](/spending-our-way-out-of-inflation/) of the bill when it was first announced. Given the rushed process, I'm now extremely pessimistic about it producing anything but negative outcomes for the country. The unintended consequences of this thing -- inevitable given the speed at which it has gone from conception to reality (members had just 12 hours to review it) -- will be felt for years to come. And much of it will remain unseen:

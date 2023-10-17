@@ -2,19 +2,16 @@
 title: Too much of a good thing
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-05-07T10:18:00+08:00"
-#description: 
+author: Justin Pyvis
+date: 2023-05-07T10:18:00+08:00
 tags:
-- competition
-- gaming
-- regulation
+  - competition
+  - gaming
+  - regulation
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
-
 Anyone who has dabbled in the wide world of video games will probably know of Activision Blizzard, or at the very least will have heard of its games. Think Call of Duty, World of Warcraft, Overwatch, Diablo, StarCraft. Yes, even Candy Crush! If you happened to produce a top gaming console, it sure would be nice to have all of those games in-house. And that's exactly what Microsoft was thinking when it [offered to acquire](https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/) Activision Blizzard in January 2022:
 
 > "This acquisition will accelerate the growth in Microsoft's gaming business across mobile, PC, console and cloud and will provide building blocks for the metaverse."

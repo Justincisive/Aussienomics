@@ -2,7 +2,7 @@
 title: A relic of the 1970s
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-01-28T09:51:00+08:00
 tags:
   - politics
@@ -11,7 +11,6 @@ tags:
 backtotop: true
 toc: false
 ---
-
 *Plus ça change, plus c'est la même chose.*
 
 Australia's Treasurer, Jim Chalmers, "will more purposefully direct investment flows to priority areas such as clean energy, through market design and co-investment". Also known as industrial policy, Chalmers [looks set](https://www.theaustralian.com.au/nation/politics/i-will-remake-capitalism-says-jim-chalmers/news-story/241f8f14bbdedcf3adb751e63d26840b) to revive a relic of 1970s economic thinking:

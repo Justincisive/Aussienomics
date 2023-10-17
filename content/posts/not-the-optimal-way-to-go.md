@@ -2,17 +2,14 @@
 title: Not the optimal way to go
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2022-12-13T10:54:00+08:00"
+author: Justin Pyvis
+date: 2022-12-13T10:54:00+08:00
 description: There's very little support for the Australian government's energy price cap plan outside of hollow political talking points, and for good reason.
 tags:
-- energy
+  - energy
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 I've been trying to find a positive take on the government's [energy solution](/spending-our-way-out-of-inflation/) -- something that isn't just a hollow talking point about the 'national interest' or 'profiteering', such [as this](https://www.minister.industry.gov.au/ministers/husic/transcripts/interview-kieran-gilbert-afternoon-agenda-sky-news-2) from "the world's [biggest nerd](https://www.pm.gov.au/media/radio-interview-abc-sydney-breakfast-james-valentine)", Minister for Industry Ed Husic:
 
 > "What the Australian government is doing is in the national economic interest – bringing down or working to bring down energy prices. 

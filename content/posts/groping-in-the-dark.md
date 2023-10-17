@@ -2,7 +2,7 @@
 title: Groping in the dark
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-04-25T08:02:00+08:00
 tags:
   - environment
@@ -11,7 +11,6 @@ backtotop: true
 toc: false
 images:
 ---
-
 The Western Australian government [recently pledged](https://www.mediastatements.wa.gov.au/Pages/McGowan/2023/01/McGowan-Government-to-introduce-climate-change-legislation.aspx) to cut the state's carbon emissions by 80% below 2020 levels by 2030 and reach net zero by 2050. As part of that plan it will, in its forthcoming Budget, provide funds to [electrify](https://thewest.com.au/politics/state-politics/2023-24-state-budget-new-fleet-of-ev-buses-will-cost-taxpayers-2-million-each-wa-premier-reveals-c-10430772) 130 of the state's buses at a cost of around $2 million each:
 
 > "The buses have been trialled in the Joondalup “Central Area Transit (CAT)” bus network for the past 12 months, where it is estimated to save 230 tonnes of carbon dioxide emissions in the first 12 months.

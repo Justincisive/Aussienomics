@@ -2,7 +2,7 @@
 title: Intergenerational thoughts
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-08-24T15:21:00+08:00
 tags:
   - environment
@@ -11,7 +11,6 @@ backtotop: true
 toc: false
 images:
 ---
-
 The Treasury's latest [Intergenerational Report](https://treasury.gov.au/publication/2023-intergenerational-report) has [made headlines](https://www.smh.com.au/politics/federal/global-warming-to-cost-australia-up-to-423-billion-over-40-years-20230823-p5dyvx.html) for the following claim:
 
 > "The direct impacts of higher temperatures on how we work are just one of the channels through which climate change will impact labour productivity, but one which could be significant. If global temperatures were to increase by up to 3°C or over 4°C, without adaptive changes to current ways of working, Australia's aggregate labour productivity levels could decrease by 0.2 to 0.8 per cent by 2063.

@@ -2,17 +2,14 @@
 title: Vienna and the housing reality
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-06-29T09:49:00+08:00"
-#description: 
+author: Justin Pyvis
+date: 2023-06-29T09:49:00+08:00
 tags:
-- housing
+  - housing
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
-
 Ah, Vienna. According to [The Economist](https://www.eiu.com/n/eius-global-liveability-index-hits-a-15-year-high/), the small central European city -- it has an urban population of around 2 million -- is, for the second straight year, the world's most liveable city.
 
 Understandably, that warrants investigation: what is Vienna doing so well, and can we replicate it elsewhere? Enter the NYT, which [last month](https://www.nytimes.com/2023/05/23/magazine/vienna-social-housing.html) described Vienna as a "renters' utopia":

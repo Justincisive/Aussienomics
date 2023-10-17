@@ -2,7 +2,7 @@
 title: Beyond foolish
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-05-03T15:53:00+08:00
 tags:
   - monetary-policy
@@ -11,7 +11,6 @@ backtotop: true
 toc: false
 images:
 ---
-
 On Tuesday the Reserve Bank of Australia (RBA) surprised everyone, hiking rates by 25 basis points to combat persistent inflation (financial markets [were pricing in](https://www.forex.com/ie/news-and-analysis/aud-outlook-the-rba-surprise-with-a-25bp-hike-with-potential-for-more-to-follow/) 100% chance of no change). 
 
 The usual suspects wasted no time reaching for their pitchforks. Daniel Andrews, Premier of Australia's most indebted state, Victoria, [blamed the RBA]( https://www.theguardian.com/australia-news/2023/may/03/daniel-andrews-blames-victoria-huge-covid-pandemic-borrowings-debt-reserve-bank-australia-advice-interest-rates) for his own government's lavish spending:

@@ -2,18 +2,15 @@
 title: Further thoughts on Vienna
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-06-30T13:31:00+08:00"
-#description: 
+author: Justin Pyvis
+date: 2023-06-30T13:31:00+08:00
 tags:
-- housing
-- population
+  - housing
+  - population
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
-
 Fertility rates in the developed world are [currently at](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/files/documents/2020/Aug/un_2020_worldfertilityfamilyplanning_highlights.pdf) around 1.6 births per woman, well below the replacement rate of 2.1 (assuming no migration). There are many causes, but work by the United Nations suggests that the decline is [primarily due](https://www.unfpa.org/swp2023/too-few) to "the increasing control that individuals – particularly women – are able to exercise over their reproductive lives".
 
 Fair enough. But if you read social media you might be inclined to look instead at the rising cost of living, particularly housing, as the culprit:

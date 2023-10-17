@@ -2,19 +2,16 @@
 title: Fast and loose with the truth
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-05-05T08:57:00+08:00"
-#description: 
+author: Justin Pyvis
+date: 2023-05-05T08:57:00+08:00
 tags:
-- competition
-- housing
-- migration
+  - competition
+  - housing
+  - migration
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
-
 There is no doubt that Australia has plenty of problems. Inflation is still running hot, rental properties are expensive and ridiculously hard to find, and profits for some companies -- especially those in the mining sector -- are, or at least were recently, at/close to record highs. Meanwhile, real wages are declining and the nation's productivity over the last decade (**the** key driver of long-run real wages growth) was at a 60-year low.
 
 These ailments have many causes. Some, such as inflation and mining profits, are at least partially due to the pandemic (global governments spending too much, partially monetised by central banks), while others such as housing and energy can be traced to a series of poor policy decisions spanning many decades.

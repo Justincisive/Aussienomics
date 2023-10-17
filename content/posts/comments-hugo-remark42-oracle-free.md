@@ -2,26 +2,22 @@
 title: Adding comments to Hugo with Remark42 and Oracle Cloud
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-02-09T13:14:00+08:00"
+author: Justin Pyvis
+date: 2023-02-09T13:14:00+08:00
 description: How to install Remark42 comments on Hugo using Oracle's Always Free cloud server and Ubuntu. A step by step guide.
 tags:
-- tech
-- off-topic
+  - tech
+  - off-topic
 backtotop: true
 toc: false
 ---
-
 If you read my previous articles on installing [Soapbox and Pleroma Rebased](/create-your-own-fediverse-instance-for-free/), or the [Ghost newsletter](/installing-ghost-onto-oracle-cloud-always-free/) software, on Oracle's Always Free cloud server using Ubuntu, then what follows should be somewhat familiar to you.
-
 ## Step 1: Buy a domain
 I'm assuming your Hugo instance has its own domain name. If not, the cheapest place I've found is [Cloudflare](https://www.cloudflare.com/products/registrar/), which will also host your DNS for free. You'll need this because we're going to host your Remark42 comments on a subdomain.
-
 ## Step 2: Sign up for Oracle Cloud
 Head over to [Oracle Cloud](https://www.oracle.com/cloud/free/) and register for an account. A credit card is required to complete the sign up process but you won't be charged, nor should you be charged in the future -- we're going to stay well within the limits of the *Always Free* plan.
 
 If you use Brave browser, be sure to disable Brave Shields. If you don't you'll get errors later.
-
 ## Step 3: Create an instance
 Once you have verified and signed into Oracle Cloud, visit the [Instances](https://cloud.oracle.com/compute/instances) page and click "Create instance".
 
@@ -38,7 +34,6 @@ The final step is to change the size of your instance. Scroll down to Boot volum
 You get up to two instances and 200GB for free, so if you want to create a second one at some point in the future set it to 100GB, otherwise go for the full 200GB. When you're done, click "Create":
 
 ![Picking a size](/images/ghost-oracle-2.png)
-
 ## Step 4: Connecting to your instance
 Once Oracle is done provisioning your new instance, we need to open some ports so that it can talk to the outside world. On your Oracle Cloud dashboard, browse to Networking -> [Virtual Cloud Networks](https://cloud.oracle.com/networking/vcns), then click your VCN:
 
@@ -47,7 +42,6 @@ Once Oracle is done provisioning your new instance, we need to open some ports s
 Continue clicking through the only options there, starting with subnet-\* and then Default Security List for vcn-\*, which will take you to your instance's Ingress Rules. Click "Add Ingress Rules" and add ports 80,443 to the "Destination Port Range", which when done should look something like this:
 
 ![Open ports](/images/ghost-oracle-6.png)
-
 ## Step 5: Configuring your instance
 Head back to your [instance page](https://cloud.oracle.com/compute/instances) in Oracle, then click on its name to get all the details you'll need to SSH into it, most importantly its public IP address and username:
 
@@ -102,7 +96,6 @@ Once that's done, it's time to open some ports:
 `sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 443 -j ACCEPT`
 
 `sudo netfilter-persistent save`
-
 ## Step 6: Installing Docker Engine
 Now that the server is ready it's time to install Docker. These instructions are largely from [here](https://docs.docker.com/engine/install/ubuntu/).
 
@@ -135,7 +128,6 @@ Update our packages and install Docker:
 All done! Verify it worked with this command:
 
 `sudo docker run hello-world`
-
 ## Step 7: Configure Docker
 
 Given that we're running this instance as ubuntu rather than root, we'll need to change the default unix socket user to prevent permission errors down the road:
@@ -143,7 +135,6 @@ Given that we're running this instance as ubuntu rather than root, we'll need to
 `sudo nano /etc/systemd/system/sockets.target.wants/docker.socket`
 
 Change the SocketUser from `root` to `ubuntu`, then exit (ctrl+o, ctrl+x, enter).
-
 ## Step 8: Install Remark42
 For this next part we're going to be drawing heavily from the [official docs](https://remark42.com/docs/getting-started/installation/). Create the default config, making sure to change the variables to fit your instance.
 
@@ -216,7 +207,6 @@ To install Remark42 we have to pull it and have it run in the background:
 `docker-compose pull && docker-compose up -d `
 
 Done! Now we'll set up Nginx so your comments are visible on the internet.
-
 ## Step 9: Install Nginx
 First, create a config file and configure it. Once again, be sure to change `server_name` to your actual comments subdomain.
 
@@ -248,14 +238,12 @@ Now enable it and restart Nginx:
 `systemctl restart nginx`
 
 Visit your test site to ensure it's live: http://comments.yoursite.com/web/
-
 ## Step 10: Encrypting traffic
 Now we have to protect your comments (we don't want our guests' email addresses being sent in plain text!). Install Certbot:
 
 `sudo certbot --nginx`
 
 Follow the prompts. When you're done your site should be available via https: https://comments.yoursite.com/web/
-
 ## Step 11: Add comments to Hugo
 This is the easiest part -- just paste the following into the post.hbs template where you want your comments to appear, ensuring that you change `host` and `site_id` to the values you set in docker-compose.yml earlier:
 

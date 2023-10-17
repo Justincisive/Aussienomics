@@ -2,7 +2,7 @@
 title: Too good to be true
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-07-08T06:00:00+08:00
 tags:
   - energy
@@ -11,7 +11,6 @@ backtotop: true
 toc: false
 images:
 ---
-
 Not a day goes by without someone claiming that they're sitting on the proverbial gold mine, *if only* government would stump up a bit of cash. That someone is often a person who has a direct financial interest in the idea, and/or has done quite well at a previous venture, so brings [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias) into play. I've been successful in the past; trust me when I say that *this* is a *sure thing*!
 
 Alas, in the real world governments that listen to these people often end up losing whatever taxpayer monies are given to them. Not because the projects fail -- they might operate for a considerable amount of time -- but because their continuance often depends on a *constant* flow of government assistance. This week's lesson in why industrial policy is generally a bad idea comes from the [land of the free](https://www.wsj.com/articles/elon-musk-tesla-buffalo-new-york-solar-plant-1b634b9e):

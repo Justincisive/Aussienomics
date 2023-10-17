@@ -2,19 +2,16 @@
 title: A victory for common sense
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-05-17T05:09:00+08:00"
-#description: 
+author: Justin Pyvis
+date: 2023-05-17T05:09:00+08:00
 tags:
-- competition
-- gaming
-- regulation
+  - competition
+  - gaming
+  - regulation
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
-
 Hot on the heels of the UK regulator's decision to block the merger between Microsoft and gaming giant Activision Blizzard on [dubious grounds](/too-much-of-a-good-thing/), the European Union gave the deal the [green light](https://www.reuters.com/markets/deals/eu-antitrust-regulators-clear-69-bln-microsoft-activision-deal-2023-05-15/):
 
 > "The European Commission said the transaction was pro-competitive due to Microsoft's agreement to licence popular Activision games such as 'Call of Duty' to rival game streaming platforms, confirming a Reuters report in March.

@@ -2,18 +2,15 @@
 title: One way to spot good policy
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-08-09T17:06:00+08:00"
-#description: 
+author: Justin Pyvis
+date: 2023-08-09T17:06:00+08:00
 tags:
-- health
-- competition
+  - health
+  - competition
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
-
 The federal government wants to allow doctors to issue people 60-day prescriptions for certain common medicines, instead of the current 30-day limit. If you take medicine regularly, then over the course of two months you'll buy the same amount of meds, but with one fewer visit to your doctor and pharmacy. That can only be a good thing for patients -- fewer unnecessary, annoying and potentially costly errands to run. But not so for the [Pharmacy Guild of Australia](https://9now.nine.com.au/today/60-day-prescription-change-could-see-pharmacists-pass-costs-onto-struggling-older-australians/a7a3ee37-880d-43fc-955a-10bf6f6f2f7b):
 
 > "We all want the same thing in terms of cheaper medicines for Australians but this policy from the federal government with 60-day dispensing will represent a $4.5 billion cut to community pharmacy funding over four years

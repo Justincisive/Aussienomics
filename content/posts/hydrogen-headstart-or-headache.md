@@ -2,7 +2,7 @@
 title: Hydrogen headstart, or headache
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-05-16T05:25:00+08:00
 tags:
   - energy
@@ -12,7 +12,6 @@ backtotop: true
 toc: false
 images:
 ---
-
 The recent federal Budget included $2 billion worth of funding for a 'Hydrogen Headstart' program. Tim Ayres, Assistant Minister for Trade and Assistant Minister for Manufacturing, [provided some details](https://www.minister.industry.gov.au/ministers/ayres/transcripts/doorstop-interview-hysata-facility-port-kembla) on the government's reasoning for the program:
 
 > "This Budget was a great budget for Australian manufacturing. Two billion dollars in the Hydrogen Headstart program, which will be there to create a market for hydrogen production in Australia to make sure hydrogen production is onshore in Australia with Australian technology and an Australian workforce. The Albanese Government is determined to make sure that we reindustrialise the Australian economy, that we meet the global challenge in terms of climate, that we make Australia a renewable energy superpower and that we meet the competitive challenge for Australian manufacturing."

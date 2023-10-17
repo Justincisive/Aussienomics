@@ -2,19 +2,14 @@
 title: Don't like it? Leave it!
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-04-14T11:00:00+08:00"
-#description: "The Greens Member for Griffith, Max Chandler-Mather, claimed that 'building luxury apartment towers makes the housing crisis worse'.\n\n
-But Max is wrong: building any form of housing, even luxury housing, creates a domino effect, freeing up housing elsewhere."
+author: Justin Pyvis
+date: 2023-04-14T11:00:00+08:00
 tags:
-- media
-- subsidies
+  - media
+  - subsidies
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 Elon Musk -- in his capacity as owner of Twitter -- [recently labelled](https://abcnews.go.com/US/wireStory/npr-quits-elon-musks-twitter-government-funded-label-98528923) NPR, a US-based radio broadcaster, "state-affiliated" due to the government subsidies it receives (about 1% of its revenue). NPR retaliated by quitting Twitter. 
 
 Shortly afterwards, Musk had a [public stoush](https://www.theregister.com/2023/04/12/elon_musk_talks_to_bbc/) with the UK's BBC on account of the country's TV tax, a compulsory annual fee paid by every TV owner to fund the public broadcaster, regardless of whether or not they watch it. In this case Musk eventually backed down and agreed to change the label to "publicly funded".

@@ -2,7 +2,7 @@
 title: Compared to what
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
+author: Justin Pyvis
 date: 2023-02-08T16:32:00+08:00
 description: Anyone calling for an end to, or watering down of, central bank independence should ask - compared to what. The alternative, i.e. central banks falling further under the influence of politicians such as Stephen Jones, will almost certainly lead to even worse outcomes.
 tags:
@@ -11,7 +11,6 @@ tags:
 backtotop: true
 toc: false
 ---
-
 A day after the RBA's latest 25 basis point cash rate hike, Australia's Assistant Treasurer Stephen Jones said:
 
 > "The government thinks that inflation has peaked.

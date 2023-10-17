@@ -1,18 +1,14 @@
 ---
-title: Reap what you sow 
+title: Reap what you sow
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-01-16T17:30:00+08:00"
-#description: The economics of the Australian government's energy market intervention bill were awful. Now we find out it's going to cost an extra half a billion dollars up-front, and they willfully lied to rush it through Parliament.
+author: Justin Pyvis
+date: 2023-01-16T17:30:00+08:00
 tags:
-- energy
+  - energy
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 It has been a few weeks since the Australian government rushed through its energy market intervention bill. How's it working out? As one [might expect](https://www.news.com.au/finance/business/other-industries/energy-retailers-blame-labors-price-cap-for-gas-supply-fears/news-story/5e554672ed437eb39e1b00239fe7f78e):
 
 > "Major energy retailers across the country have been forced to stop taking on new gas customers while others ramp up their prices, as they struggle under the government-imposed 12-month price cap.

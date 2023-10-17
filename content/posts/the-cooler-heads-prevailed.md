@@ -2,19 +2,15 @@
 title: The cooler heads prevailed
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-08-19T10:12:00+08:00"
-#description: 
+author: Justin Pyvis
+date: 2023-08-19T10:12:00+08:00
 tags:
-- housing
+  - housing
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
-
 National Cabinet -- where Australia's States and federal government get together to try to agree on national policy -- reached [an agreement](https://twitter.com/AlboMP/status/1691684990789230845) this week to:
-
 ![Albo tweeting the National Cabinet outcome.](/images/albo-tweet-16-aug-23.jpg) *"Build 1.2 million homes over 5 years. A better deal for renters. Planning reforms."*
 
 Here's a link to the [full policy reveal](https://www.pm.gov.au/media/meeting-national-cabinet-working-together-deliver-better-housing-outcomes), which explains that the 1.2 million target is really just an increase of 200,000 over the existing target. Not bad, but how are governments going to achieve that target? Why with more money, of course:

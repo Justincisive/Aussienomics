@@ -2,17 +2,14 @@
 title: Should you join Threads?
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-07-07T15:46:00+08:00"
-#description: 
+author: Justin Pyvis
+date: 2023-07-07T15:46:00+08:00
 tags:
-- technology
+  - technology
 backtotop: true
 toc: false
 images:
-#- /images/cpi-feb-23.jpg
 ---
-
 Meta, the social media empire formerly known as Facebook, rolled out a new product -- it's only a mobile app at this stage -- called [Threads](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/). Thirty million-odd people [signed up to it](https://www.abc.net.au/news/2023-07-06/millions-sign-up-to-meta-twitter-rival-app-threads-in-hours/102572568) in the first day, including our very own PM Anthony Albanese.
 
 So what is Threads? Starting with the name, it was clearly chosen as a not-so-subtle dig at Twitter; Twitter threads, aka several tweets in a row, are a huge part of how users interact with it. But even beyond that, the platform visually appears to be *almost identical* to Twitter:

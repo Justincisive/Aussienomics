@@ -2,17 +2,14 @@
 title: Spending our way out of inflation
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2022-12-10T07:26:00+08:00"
+author: Justin Pyvis
+date: 2022-12-10T07:26:00+08:00
 description: The Australian government announced its much-anticipated solution to the energy crisis. At first glance it's quite far off what one might considered optimal, although there are too many unknowns and too much uncertainty to draw any concrete conclusions.
 tags:
-- energy
+  - energy
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 On Friday afternoon, the Australian government announced its much-anticipated solution to the energy crisis -- [subsidies and price caps](https://7news.com.au/lifestyle/personal-finance/millions-of-aussies-set-to-share-in-15-billion-cash-back-program-to-help-with-cost-of-living-c-9110427). According to Prime Minister Anthony Albanese:
 
 > "I'm pleased to announce that there was agreement at the national cabinet on a way forward to provide the energy price relief for households and for businesses.

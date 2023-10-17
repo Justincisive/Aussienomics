@@ -2,17 +2,13 @@
 title: Not helpful
 ShowBreadCrumbs: false
 ShowToc: false
-author: Justin
-date: "2023-02-04T14:29:00+08:00"
-#description: Summary here
+author: Justin Pyvis
+date: 2023-02-04T14:29:00+08:00
 tags:
-- environment
+  - environment
 backtotop: true
 toc: false
-#images:
-#- icon.png
 ---
-
 You might think that anthropogenic climate change is a major issue and that decarbonisation should be front and centre of policy. But that's no excuse for this [shoddy bit of tweeting](https://twitter.com/DavidPocock/status/1621414861451456516) from Senator Pocock:
 
 > "Big report out today highlighting the scale of emissions from big fossil fuel companies in Australia.
