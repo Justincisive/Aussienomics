@@ -33,9 +33,9 @@ California -- notorious for expensive housing -- passed several laws legalising 
 
 We could do the same here. Students, elderly parents, and essential workers would all benefit from simply letting people build a granny flat on their property. The country would also benefit because those people have to come from *somewhere*, freeing up housing for others.
 
-But building granny flats alone won't increase the housing stock by over 50% over the next 25 years. In the longer term, State governments need to allow people to not only build out, but also **UP**. 
+But building granny flats alone won't increase the housing stock by 50% over the next 25 years. In the longer term, State governments need to allow people to not only build out, but also **UP**. 
 
-Politicians need to stop telling Australians what they want and let them vote with their wallets. And I'm sorry, but if you're a politician who is not *actively trying* to legalise housing choice then you're implicitly agreeing that density is bad and you know better than people who might want to live in an affordable, inner-suburb dwelling without having to be a millionaire.
+Politicians need to stop telling Australians what they want and let them vote with their wallets. And I'm sorry, but if you're a politician who is not *actively trying* to legalise housing choice then you're implicitly agreeing that density is bad and you know better than people who might want to live in an inner-suburb dwelling without having to be a millionaire.
 
 Reform won't be easy; it means changing zoning laws *and* doing the even harder work of [reducing transaction costs such](https://journals.sagepub.com/doi/pdf/10.1177/09516298211044852) as "permitting, but also minimum lot size requirements, maximum density limits, minimum parking requirements, community benefits arrangements, mandatory environmental reviews, management of public relations campaigns to forestall city council pressure, and generally, the expense of lawyers and experts to navigate regulatory obstacles". History has shown that when costs are concentrated on a few (existing residents), while the benefits are dispersed (people who might want to move there), and only the former have voting/veto power, nothing will get built unless residents are adequately compensated.
 
