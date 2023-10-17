@@ -8,7 +8,9 @@ tags:
   - politics
 backtotop: true
 toc: false
-images:
+images: 
+- /images/clive-mcgowan-west-cartoon.jpg
+description: The two-party democratic system is set up to allow crony capitalism to flourish and Mark McGowan and Dan Andrews are just two recent examples of where it has been pushed to its absolute limits -- as Mencken might say, they truly are giving it to us good and hard!
 ---
 It's no surprise that people clamour hand over fist to win preselection for one of the two major Australian political parties when the rewards are far greater than those individuals might expect to receive in the private sector. Not just the power and status, but the [financial windfalls](https://www.abc.net.au/news/2023-10-06/mark-mcgowan-new-jobs-bhp-mineral-resources-bondi-partners/102944306) awaiting them upon retirement:
 
@@ -35,8 +37,6 @@ But the favours flowed well beyond the media. The State's mining companies owe M
 People spend a lot of time and energy arguing for and against 'left' this, or 'right' that. But the people who are *actually in power* honestly couldn't give a toss either way, so long as they're able to line their pockets at your expense. But that's just life in a two-party democratic system, "the theory that the common people know what they want and deserve to get it good and hard" (Mencken really had some cracking quotes, didn't he?).
 
 The system is set up to allow crony capitalism to flourish and Mark McGowan and Dan Andrews are just two recent examples of where it has been pushed to its absolute limits -- they truly are giving it to us good and hard! 
-
-But don't hate the player, hate the game, right?
 
 **The Government is understandably cagey about how much it has pissed away into Mineral Resources' coffers to 'protect' a handful of jobs. $250 million is my back of the envelope calculation but you can work it yourself using the information provided in [Hansard](https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/511112B93C0EA9B048258574002115D2?opendocument). Average iron ore price * 30 million tonnes * 7.5% (the State's royalty rate).*
 
