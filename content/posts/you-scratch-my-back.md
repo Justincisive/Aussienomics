@@ -1,5 +1,5 @@
 ---
-title: You scratch my back...
+title: You scratch my back
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin
