@@ -1,5 +1,6 @@
 +++
 title = "About"
+layout = "page"
 +++
 
 Aussienomics is an Australian economics-themed blog created by Dr Justin Pyvis. It was launched in 2009 but entered hibernation for nearly a decade between 2013 and late-2022.

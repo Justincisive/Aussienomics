@@ -1,5 +1,6 @@
 +++
 title = "Subscribe"
+layout = "page"
 +++
 
 I don't currently send posts as emails but I may in the future. If that's something that might interest you, you can use the form below to subscribe:
