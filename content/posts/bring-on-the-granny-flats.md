@@ -11,7 +11,7 @@ toc: false
 images: 
 description:
 ---
-Australia has a housing problem: we simply haven't built enough of it to accommodate our growing population, which the government [estimates](https://www.abs.gov.au/statistics/people/population/population-clock-pyramid) will continue to increase from around 26.5 million to 40.5 million in 2050. All else equal, that means we need about 50% more housing than we have today, and the old strategy of simply building out forever just won't cut it. Believe it or not, some cities are [actually getting](https://www.watoday.com.au/national/western-australia/perth-is-already-the-world-s-longest-city-and-we-ve-dropped-the-ball-on-sprawl-20220704-p5ayy3.html) *less dense*:
+Australia has a housing problem: we simply haven't built enough of them to accommodate our growing population, which the government [estimates](https://www.abs.gov.au/statistics/people/population/population-clock-pyramid) will continue to increase from around 26.5 million to 40.5 million by 2050. All else equal, that means we need about 50% more housing than we have today, and the old strategy of simply building out forever just won't cut it. Believe it or not, some cities are [actually getting](https://www.watoday.com.au/national/western-australia/perth-is-already-the-world-s-longest-city-and-we-ve-dropped-the-ball-on-sprawl-20220704-p5ayy3.html) *less dense*:
 
 > "Perth’s sprawl now stretches almost 150 kilometres from Two Rocks to Dawesville. 
 > 
