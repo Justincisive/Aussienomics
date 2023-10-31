@@ -259,3 +259,7 @@ This is the easiest part -- just paste the following into the post.hbs template 
 ```
 
 Done! Your Hugo posts should now have Remark42 comments.
+
+**Addendum**: To update your Remark42 instance, just SSH into your server, make any changes to docker-compose.yml you might want, then run:
+
+`sudo docker-compose up -d`
