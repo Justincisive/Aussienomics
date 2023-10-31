@@ -20,7 +20,7 @@ Picture this. It's 2020, the pandemic has arrived with a bang and Big Tech compa
 
 The solution: force them to pay for linking to Australian news articles, a concept that is anathema to the entire foundations of the internet, but what do a couple of dinosaurs like us care? 
 
-And so it was that the Australian government drafted and passed the infamous [News Media Bargaining Code](https://www.accc.gov.au/by-industry/digital-platforms-and-services/news-media-bargaining-code/news-media-bargaining-code) (the Code) in 2021, a law which essentially strong-armed Big Tech into signing "deals" with Australian newspapers for the privilege of letting its users post links to their news articles. 
+And so it was that the Australian government drafted and passed the infamous [News Media Bargaining Code](https://www.accc.gov.au/by-industry/digital-platforms-and-services/news-media-bargaining-code/news-media-bargaining-code) (the Code) in 2021, a law which essentially strong-armed Big Tech into signing "deals" with Australian newspapers for the privilege of letting its users post links to their articles. 
 
 The then-head of the ACCC, Rod Sims, [hailed it as](https://www.ft.com/content/ad706bd3-2aed-49da-b4f4-862f15a2e601) "a big success":
 
@@ -28,7 +28,7 @@ The then-head of the ACCC, Rod Sims, [hailed it as](https://www.ft.com/content/a
 > 
 > "We are on track for deals all around. It's been a big success," Sims said in an interview. "We are just about there and the media companies are happy — and that's the key point."
 
-If social media companies *didn't* sign one of these "deals" and their users kept posting links, the Treasurer had the power to "designate a digital platform as being under the news media bargaining code", which would have almost certainly result in payments above and beyond whatever "deal" they could negotiate privately. So they conceded defeat and signed deals to keep news on their platforms.
+If social media companies *didn't* sign one of these "deals" and their users kept posting links, the Treasurer had the power to "designate a digital platform as being under the news media bargaining code", which would have almost certainly resulted in payments above and beyond whatever "deal" they could negotiate privately. So they conceded defeat and signed deals to keep news on their platforms.
 
 Fast forward two years and it turns out that being extorted didn't go down too well in Silicon Valley. According to [the NYT](https://www.nytimes.com/2023/10/19/technology/news-social-media-traffic.html):
 
