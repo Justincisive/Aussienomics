@@ -16,7 +16,7 @@ description:
 ---
 ![Image of Josh Frydenberg and Ryan Stokes.](/images/frydenberg-stokes-oct-23.png) 
 
-Picture this. It's 2020, the pandemic has arrived with a bang and Big Tech companies' share prices are soaring while the opposite is true for newspapers and TV. Australia's then-Treasurer Josh Frydenberg sits down for his weekly tennis and beer session with good mate Ryan Stokes -- Josh was best man at his wedding -- when he is told how big foreign social media companies were crowding out local companies such as his billionaire dad Kerry Stokes' Seven West Media. 
+Picture this. It's 2020, the pandemic has arrived with a bang and Big Tech companies' share prices are soaring while the opposite is true for newspapers and TV. Australia's then-Treasurer Josh Frydenberg settles in for his regular tennis and beer session with good mate Ryan Stokes -- Josh was best man at his wedding -- when he is told how big foreign social media companies were crowding out local companies such as his billionaire dad Kerry Stokes' Seven West Media. 
 
 The solution: force them to pay for linking to Australian news articles, a concept that is anathema to the entire foundations of the internet, but what do a couple of dinosaurs like us care? 
 
