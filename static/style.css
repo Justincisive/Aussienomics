@@ -3,7 +3,7 @@ body:not(.light-theme) .logo img {
     -webkit-filter: invert(1);
 }
 .logo img {
-    height: 55px; }
+    height: 55px; width: 78px; }
 .header {
   padding: 15px; }
 blockquote {
