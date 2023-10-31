@@ -18,7 +18,7 @@ description:
 
 Picture this. It's 2020, the pandemic has arrived with a bang and Big Tech companies' share prices are soaring while the opposite is true for newspapers and TV. Australia's then-Treasurer Josh Frydenberg settles in for his regular tennis and beer session with good mate Ryan Stokes -- Josh was best man at his wedding -- when he is told how big foreign social media companies were crowding out local companies such as his billionaire dad Kerry Stokes' Seven West Media. 
 
-The solution: force them to pay for linking to Australian news articles, a concept that is anathema to the entire foundations of the internet, but what do a couple of dinosaurs like us care? 
+The solution must have seemed so obvious: why not just *force* Big Tech to pay for linking to Australian news articles? Sure, the idea might run counter to the entire foundations of the internet, but what are they going to do about it?
 
 And so it was that the Australian government drafted and passed the infamous [News Media Bargaining Code](https://www.accc.gov.au/by-industry/digital-platforms-and-services/news-media-bargaining-code/news-media-bargaining-code) (the Code) in 2021, a law which essentially strong-armed Big Tech into signing "deals" with Australian newspapers for the privilege of letting its users post links to their articles. 
 
