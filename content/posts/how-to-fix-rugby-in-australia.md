@@ -17,7 +17,7 @@ description: "Rugby in Australia has never been at a lower point. Those at the t
 Rugby in Australia is at an all-time low:
 
 - The Wallabies were knocked out of the Rugby World Cup in the group stages for the first time ever.
-- Dave Rennie -- hired to take the Wallabies to the World Cup -- was sacked several months before the tournament even started, with Eddie Jones parachuted in and then shown the door in less than a year.
+- Dave Rennie -- hired to take the Wallabies to the World Cup -- was sacked several months before the tournament even started, with Eddie Jones parachuted in, [turning it into a clown show](https://www.smh.com.au/sport/rugby-union/it-was-bizarre-the-inside-story-of-eddie-jones-chaotic-second-coming-20231031-p5egc0.html), and then walking out the door in less than a year.
 - The Wallabies haven't won the Bledisloe Cup in 22 years.
 - An Australian Super Rugby club hasn't won a title (or made a grand final) since 2014.
 - The NSW Waratahs' finances are so "perilous" that it may [give up control](https://www.smh.com.au/sport/rugby-union/rugby-australia-to-take-control-of-the-waratahs-in-first-major-centralisation-step-20231006-p5eac8.html) to Rugby Australia (the central body).
@@ -91,7 +91,7 @@ How did it work out? Unlike Ireland and New Zealand, South Africa has won two co
 
 Rugby Australia (which also has a 'limited budget') could learn a lesson a lesson or two from their success. For example, it could immediately scrap the Giteau Law. It could double the number of local players contracted to the Wallabies, to be determined through a new independently determined position ranking system. And it should allow players and coaches to move wherever in the World they can earn the most, diffusing what they learn to their Wallabies teammates when they get together for up to 14 weeks of the year (as per World Rugby Regulation 9).
 
-Not only would that improve depth for the Wallabies, but it would help to restore true competition to Super Rugby and bring back the fans. Having an *actual competition*, despite the lack of many Springboks, certainly hasn't deterred fans in South Africa: 
+Not only would that improve depth for the Wallabies, but it would help to restore true competition to Super Rugby and bring back the fans. Having an *actual competition*, despite the absence of many Springboks, certainly hasn't deterred fans in South Africa: 
 
 >"Over 1.6 million fans will have attended games by the time the final whistle is blown to crown the 2022/23 champions.
 >
@@ -103,4 +103,6 @@ Not only would that improve depth for the Wallabies, but it would help to restor
 
 Instead of paying an extra $600,000 a year to keep Rob Valetini at the Brumbies -- nothing against Rob, that's just a top-up figure I know exists -- let him go overseas and be paid what he's worth (it's a short career, after all). Use those savings to increase payments to many more players and prop up grassroots rugby. By doing that, you open a viable pathway to Super Rugby and the Wallabies for the next potential superstars, rather than lose them to rugby entirely. They might eventually go overseas, but they'll still be Wallaby eligible.
 
-If the current Rugby Australia board isn't willing to even consider the South African model -- or explain why it wouldn't work here, or why the centralised alternative is so much better other than by boosting their own personal power and status -- then they should resign and be replaced by professional sports administrators who will, rather than the hodgepodge bunch of ex-players and bankers that currently occupy those seats (with apologies to Brett Godfrey and Pip Marlow, although it's not clear what background they have, if any, in sports administration).
+If the current Rugby Australia board isn't willing to even consider the South African model -- or explain why it wouldn't work here, or why the centralised alternative is so much better other than by boosting their own personal power and status -- then they should resign and be replaced by professional sports administrators who will. 
+
+Surely we can do better than the hodgepodge of ex-players and bankers that currently occupy board seats (with apologies to Brett Godfrey and Pip Marlow, although it's not clear what background they have, if any, in sports administration)?
