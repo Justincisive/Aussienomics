@@ -25,7 +25,7 @@ Rugby in Australia is at an all-time low:
 
 I've probably missed some but it doesn't matter; the situation is dire. The only question that remains is what can be done to fix it? 
 
-## The push for centralisation
+### The push for centralisation
 
 Those at the top believe they have a solution and have repeated it *ad nauseum*: centralisation. The problem with Australian rugby, they claim, is that the clubs compete for players, coaches, and finances without worrying about how it might affect the Wallabies. That competition means there's limited continuity; for example, the Wallabies' starting front row might be playing across three different teams, and clubs regularly 'poach' staff, players and sponsors from each other.
 
@@ -53,7 +53,7 @@ The problem with that logic is that those aren't exactly stellar examples. True,
 
 Super Rugby, the competition contested by Australian and New Zealand-based clubs (and now Fiji and Samoa), hasn't been much of a competition for some time. Rather, it has become "a national body play-thing", with certain clubs set up to succeed via generous player top-up payments from national bodies and others left to fail. 
 
-## Centralisation is no panacea
+### Centralisation is no panacea
 
 It's no wonder fans are staying away -- other than die-hard Cantabrians, who wants to see the Crusaders romp their way to a seventh consecutive title, anyway? A better option might be to *reduce* the influence of national bodies on the premier competition in the Southern Hemisphere:
 
@@ -77,7 +77,7 @@ I don't know about you, but the last thing I would want for Australian rugby is 
 
 How about instead of further centralising power under the current band of thugs, we look to further *decentralise* rugby in Australia? The good news is we have already have a model of where that worked very, very well: South Africa.
 
-## The South African model of decentralisation
+### The South African model of decentralisation
 
 In 2019, South Africa [scrapped a rule](https://www.news24.com/sport/radical-new-springbok-contracting-model-gets-green-light-20190223) that required overseas-based players to have at least 30 test caps to be eligible for Springboks selection (known as the 'Giteau Law' in Australia). It was replaced with significantly expanded top-up payments for home-based players from the governing body, with players ranked by position to determine how much extra they are paid. The goal of the new system was to abandon what was a financially futile effort to prevent their best players going overseas and instead focus on succession planning, ensuring those who do leave the Springbok set-up can be replaced.
 
@@ -95,7 +95,7 @@ The central body also stopped meddling in club decision-making. Local franchises
 
 How did it work out? Unlike Ireland and New Zealand, South Africa has won two consecutive World Cups since adopting a decentralised model. Of course there are many factors at play, but two Cups in a row from a nation with far fewer resources than other countries suggests it can't be all that bad.
 
-## Consider all the options
+### Consider all the options
 
 Rugby Australia (which also has a 'limited budget') could learn a lesson a lesson or two from the success of South Africa. For example, it could immediately scrap the Giteau Law. It could double the number of local players contracted to the Wallabies, to be determined through a new independently determined position ranking system. And it should allow players and coaches to move wherever in the World they can earn the most, diffusing what they learn to their Wallabies teammates when they get together for up to 14 weeks of the year (as per World Rugby Regulation 9).
 
