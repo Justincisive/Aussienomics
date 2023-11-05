@@ -11,7 +11,7 @@ toc: false
 images: 
 description:
 ---
-Andrew Leigh delivered an [excellent speech](https://www.andrewleigh.com/ten_lessons_for_economic_policymakers_speech) to the Economic Society of Australia in Canberra last week (alas I was not in attendance), in which he outlined his 'Ten Lessons for Economic Policymakers' in detail. 
+Andrew Leigh delivered a [great speech](https://www.andrewleigh.com/ten_lessons_for_economic_policymakers_speech) to the Economic Society of Australia in Canberra last week (alas I was not in attendance), in which he outlined his 'Ten Lessons for Economic Policymakers' in detail. 
 
 Most of them were excellent, but alas he missed the mark on two of them by making a common mistake.
 
