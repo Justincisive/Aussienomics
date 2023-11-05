@@ -23,7 +23,7 @@ Leigh's mistake is when he then claims that in a comparison between policies tha
 
 Economists would not be so quick to jump to that conclusion. For instance, many people might want to live just as long as they're currently expecting to, but with some combination of twice as much income or twice as much leisure during those years. Maybe they'd want to live just five years longer but with 50% more income or leisure; we can't know.
 
-Fortunately, economists use (admittedly imperfect) tools such as the [value of statistical life](https://oia.pmc.gov.au/resources/guidance-assessing-impacts/value-statistical-life) to try and put a dollar value on trade-offs such as these. Not taking this step means Leigh is imparting *his* personal utility curve -- what he considers 'wellbeing' -- on the population writ large.
+Fortunately, economists use (admittedly imperfect) tools such as the [value of statistical life](https://oia.pmc.gov.au/resources/guidance-assessing-impacts/value-statistical-life) to try and put a dollar value on trade-offs such as these. Not taking this step means Leigh is imparting *his* personal utility curve -- what he considers 'wellbeing' -- on the population writ large. And that's often a recipe for bad policy.
 
 ### Lesson nine: focus on wellbeing, not just dollars
 
