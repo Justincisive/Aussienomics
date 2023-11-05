@@ -33,4 +33,4 @@ Leigh again slips up on the subject of utility in this lesson, when he claims th
 
 Not true, and certainly not believed by "most economists" -- Economics 101 acknowledges that interpersonal utility comparisons are not possible, even with money, because utility is *ordinal*, not *cardinal*. In other words, people's preferences can be ranked but they can't be measured. And if you can't measure them, you can't compare differences in the marginal utility of money between people.
 
-Overall, I would give Leigh an 8/10 -- an excellent score for a politician, and certainly better than what his colleague, Treasurer, Jim Chalmers, would receive. But he needs to brush up on his welfare economics!
+Overall, I would give Leigh an 8/10 -- an excellent score for a politician, and certainly better than what his colleague, Treasurer Jim Chalmers, would receive. But he needs to brush up on his welfare economics!
