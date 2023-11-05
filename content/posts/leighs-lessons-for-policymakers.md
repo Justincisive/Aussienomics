@@ -29,7 +29,7 @@ Fortunately, economists use (admittedly imperfect) tools such as the [value of s
 
 Leigh again slips up on the subject of utility in this lesson, when he claims that to believe "redistribution can raise overall happiness":
 
-> "[Y]ou need to simply believe that another dollar buys less happiness for a billionaire than for somebody who's sleeping rough. If you believe that, then it follows that redistribution can raise overall happiness."
+> "...you need to simply believe that another dollar buys less happiness for a billionaire than for somebody who's sleeping rough. If you believe that, then it follows that redistribution can raise overall happiness."
 
 Not true, and certainly not believed by "most economists" -- Economics 101 acknowledges that interpersonal utility comparisons are not possible, even with money, because utility is *ordinal*, not *cardinal*. In other words, people's preferences can be ranked but they can't be measured. And if you can't measure them, you can't compare differences in the marginal utility of money between people.
 
