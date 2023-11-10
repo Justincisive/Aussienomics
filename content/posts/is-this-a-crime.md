@@ -3,6 +3,8 @@ title: Is this a crime?
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2022-12-30T07:40:00+08:00
 description: The economics of the Australian government's energy market intervention bill were awful. Now we find out it's going to cost an extra half a billion dollars up-front, and they willfully lied to rush it through Parliament.
 tags:

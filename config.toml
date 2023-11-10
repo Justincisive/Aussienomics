@@ -80,3 +80,8 @@ url = "/subscribe"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"

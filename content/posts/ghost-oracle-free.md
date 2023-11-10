@@ -3,6 +3,8 @@ title: Installing Ghost onto Oracle Cloud Always Free
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2022-12-09T18:29:00+08:00
 description: How to install Ghost on Oracle's Always Free cloud server using Ubuntu. A step by step guide.
 tags:

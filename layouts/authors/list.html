@@ -1,0 +1,41 @@
+{{ define "main" }}
+  {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
+  {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" $contentTypeName) }}
+  <div class="posts">
+<h1 class="post-title">Posts by {{ .Title }}</h1>
+    {{ range $paginator.Pages }}
+      <article class="post on-list">
+        <h2 class="archive__post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
+        <div class="post-meta">
+          {{ if .Date }}
+            <time class="post-date">
+              {{ .Date.Format ($.Site.Params.DateFormatList | default "2006-01-02") }}
+            </time>
+
+            {{ if $.Site.Params.LastModDisplay }}
+              {{ partial "lastmod.html" . }}
+            {{ end }}
+          {{ end }}
+
+          {{ if $.Site.Params.ShowReadingTime }}
+            <span class="post-read-time"
+              >— {{ .ReadingTime }} {{ $.Site.Params.MinuteReadingTime | default "min read" }}</span
+            >
+          {{ end }}
+        </div>
+
+        <div class="post-content" style="margin-top:0 !important;">
+          {{ with .Description }}
+            {{ . | markdownify | truncate 175 }}
+            {{ else }}
+            {{ if .Truncated }}
+              {{ .Summary | truncate 175 }}
+            {{ end }}
+          {{ end }}
+        </div>
+      </article>
+    {{ end }}
+    {{ partial "pagination.html" . }}
+  </div>
+{{ end }}

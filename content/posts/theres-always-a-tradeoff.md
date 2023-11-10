@@ -3,6 +3,8 @@ title: There's always a trade-off
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-03-14T16:01:00+08:00
 tags:
   - finance

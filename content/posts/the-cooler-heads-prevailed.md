@@ -3,6 +3,8 @@ title: The cooler heads prevailed
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-08-19T10:12:00+08:00
 tags:
   - housing

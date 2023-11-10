@@ -3,6 +3,8 @@ title: Nitpicking inflation
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-10-25T16:09:00+08:00
 tags:
   - inflation

@@ -3,6 +3,8 @@ title: One way to spot good policy
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-08-09T17:06:00+08:00
 tags:
   - health

@@ -3,6 +3,8 @@ title: Monetary policy and golden handcuffs
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-05-15T09:44:00+08:00
 tags:
   - housing

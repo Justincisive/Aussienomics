@@ -3,6 +3,8 @@ title: Leigh's lessons for policymakers
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-11-05T11:51:00+08:00
 tags:
   - policy

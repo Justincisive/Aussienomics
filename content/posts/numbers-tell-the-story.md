@@ -3,6 +3,8 @@ title: Numbers tell the story
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-10-13T04:22:00+08:00
 tags:
   - housing

@@ -3,6 +3,8 @@ title: Adding comments to Hugo with Remark42 and Oracle Cloud
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-02-09T13:14:00+08:00
 description: How to install Remark42 comments on Hugo using Oracle's Always Free cloud server and Ubuntu. A step by step guide.
 tags:

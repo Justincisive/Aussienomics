@@ -3,6 +3,8 @@ title: Not in my backyard
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-04-23T10:19:00+08:00
 description: 'Last week around 500 residents of the small town of Dunsborough in Western Australia turned out to a rally protesting against affordable housing: "Several high-rise retail and housing projects are being developed in the town after receiving initial approval from the local council...'
 tags:

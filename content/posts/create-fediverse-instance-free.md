@@ -3,6 +3,8 @@ title: Create your own fediverse instance (for free!)
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2022-12-25T09:14:00+08:00
 description: How to install Soapbox and Pleroma Rebased on Oracle's Always Free cloud server using Ubuntu. A step by step guide.
 tags:

@@ -3,6 +3,8 @@ title: A dubious pause
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-04-04T15:29:00+08:00
 tags:
   - inflation

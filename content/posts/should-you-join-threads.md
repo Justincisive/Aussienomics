@@ -3,6 +3,8 @@ title: Should you join Threads?
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-07-07T15:46:00+08:00
 tags:
   - technology

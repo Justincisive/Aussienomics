@@ -3,6 +3,8 @@ title: Further thoughts on Vienna
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-06-30T13:31:00+08:00
 tags:
   - housing

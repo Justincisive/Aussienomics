@@ -3,6 +3,8 @@ title: Corporate welfare, AFL edition
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2022-12-24T09:18:00+08:00
 description: The AFL and Tasmania are after a new stadium and want the rest of Australia to pay for it. But the business case just doesn't stack up.
 tags:

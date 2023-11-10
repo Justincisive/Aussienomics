@@ -3,6 +3,8 @@ title: Breaking up with the news
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-10-31T07:22:00+08:00
 tags:
   - media

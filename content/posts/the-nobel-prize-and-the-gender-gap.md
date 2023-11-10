@@ -3,6 +3,8 @@ title: The Nobel prize and the gender gap
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-10-12T04:10:00+08:00
 tags:
   - gender

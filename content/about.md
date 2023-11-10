@@ -3,7 +3,7 @@ title = "About"
 layout = "page"
 +++
 
-Aussienomics is an Australian economics-themed blog created by Dr Justin Pyvis. It was launched in 2009 but entered hibernation for nearly a decade between 2013 and late-2022.
+Aussienomics is an Australian economics-themed blog created by [Dr Justin Pyvis](/author/justin-pyvis). It was launched in 2009 but entered hibernation for nearly a decade between 2013 and late-2022.
 
 Here's a snippet from the original 'About' page:
 

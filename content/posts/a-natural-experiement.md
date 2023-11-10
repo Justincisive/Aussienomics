@@ -3,6 +3,8 @@ title: A natural experiment
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-04-09T13:47:00+08:00
 tags:
   - inflation

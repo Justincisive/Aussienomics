@@ -3,6 +3,8 @@ title: Why nations fail
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2022-12-15T11:18:00+08:00
 description: The Australian government's energy intervention bill will soon clear Parliament. But the unintended consequences of it will be felt for years to come.
 tags:

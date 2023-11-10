@@ -3,6 +3,8 @@ title: A bit of a stretch
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-02-02T13:59:00+08:00
 tags:
   - politics

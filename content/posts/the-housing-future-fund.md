@@ -3,6 +3,8 @@ title: The housing future fund
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-03-24T07:20:00+08:00
 tags:
   - housing

@@ -3,6 +3,8 @@ title: The real doomsday scenario
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-11-07T04:43:00+08:00
 tags:
   - artificial-intelligence

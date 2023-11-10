@@ -3,6 +3,8 @@ title: Building a moat
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-05-18T17:52:00+08:00
 tags:
   - regulation

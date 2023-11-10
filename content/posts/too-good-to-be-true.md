@@ -3,6 +3,8 @@ title: Too good to be true
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-07-08T06:00:00+08:00
 tags:
   - energy

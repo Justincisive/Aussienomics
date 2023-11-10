@@ -3,6 +3,8 @@ title: Not the optimal way to go
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2022-12-13T10:54:00+08:00
 description: There's very little support for the Australian government's energy price cap plan outside of hollow political talking points, and for good reason.
 tags:

@@ -3,6 +3,8 @@ title: A relic of the 1970s
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-01-28T09:51:00+08:00
 tags:
   - politics

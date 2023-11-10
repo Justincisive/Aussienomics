@@ -3,6 +3,8 @@ title: Inflation's winners and losers
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-10-27T07:34:00+08:00
 tags:
   - inflation

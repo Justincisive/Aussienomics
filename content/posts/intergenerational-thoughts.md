@@ -3,6 +3,8 @@ title: Intergenerational thoughts
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-08-24T15:21:00+08:00
 tags:
   - environment

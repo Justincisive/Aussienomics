@@ -3,6 +3,8 @@ title: A victory for common sense
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-05-17T05:09:00+08:00
 tags:
   - competition

@@ -3,6 +3,8 @@ title: Too much of a good thing
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-05-07T10:18:00+08:00
 tags:
   - competition

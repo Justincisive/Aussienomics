@@ -3,6 +3,8 @@ title: Policy sore thumbs
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-03-06T07:42:00+08:00
 tags:
   - politics

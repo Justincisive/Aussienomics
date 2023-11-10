@@ -3,6 +3,8 @@ title: The devil you know
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-07-10T19:22:00+08:00
 tags:
   - politics

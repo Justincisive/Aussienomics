@@ -3,6 +3,8 @@ title: Get ready for higher inflation
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-04-21T13:57:00+08:00
 tags:
   - inflation

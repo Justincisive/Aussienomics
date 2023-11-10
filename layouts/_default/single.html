@@ -17,10 +17,10 @@
         {{ end }}
       {{ end }}
 
-      {{ with .Params.Author }}
+      {{- range .Params.authors }}
+  {{- with $.Site.GetPage "taxonomyTerm" (printf "author/%s" (urlize .)) }}
         <span class="post-author"
-          >— {{ $.Site.Params.WrittenBy | default "by" }} {{ . }}</span
-        >{{ end }}
+          >— {{ $.Site.Params.WrittenBy | default "by" }} <a href="{{ .Permalink }}">{{ .Name }}</a></span>{{ end }}{{ end }}
 
 
       {{ if $.Site.Params.ShowReadingTime }}

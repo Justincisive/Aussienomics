@@ -3,6 +3,8 @@ title: Hydrogen headstart, or headache
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-05-16T05:25:00+08:00
 tags:
   - energy

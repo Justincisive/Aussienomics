@@ -3,6 +3,8 @@ title: Fast and loose with the truth
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-05-05T08:57:00+08:00
 tags:
   - competition

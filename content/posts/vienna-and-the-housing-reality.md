@@ -3,6 +3,8 @@ title: Vienna and the housing reality
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-06-29T09:49:00+08:00
 tags:
   - housing

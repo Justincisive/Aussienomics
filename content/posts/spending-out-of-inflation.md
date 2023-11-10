@@ -3,6 +3,8 @@ title: Spending our way out of inflation
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2022-12-10T07:26:00+08:00
 description: The Australian government announced its much-anticipated solution to the energy crisis. At first glance it's quite far off what one might considered optimal, although there are too many unknowns and too much uncertainty to draw any concrete conclusions.
 tags:

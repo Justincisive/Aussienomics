@@ -3,6 +3,8 @@ title: A Turkish warning
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
+authors: 
+ - Justin Pyvis
 date: 2023-05-31T17:17:00+08:00
 tags:
   - institutions
