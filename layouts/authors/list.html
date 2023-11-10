@@ -3,7 +3,7 @@
   {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" $contentTypeName) }}
   <div class="posts">
-<h1 class="post-title">Posts by {{ .Title }}</h1>
+<h1>Posts by {{ .Title }}</h1>
     {{ range $paginator.Pages }}
       <article class="post on-list">
         <h2 class="archive__post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>

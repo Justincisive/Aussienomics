@@ -3,8 +3,8 @@ title: Inviting criminality
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
-authors: 
- - Justin Pyvis
+authors:
+  - Justin Pyvis
 date: 2023-11-10T10:17:00+08:00
 tags:
   - housing
@@ -12,8 +12,8 @@ tags:
   - institutions
 backtotop: true
 toc: false
-images: 
-- /images/quimby-corrupt-simpsons.png
+images:
+  - /images/quimby-corrupt-simpsons.png
 description:
 ---
 When you create a system that makes it costly to do things 'by the book' -- common examples are drugs, guns and more recently, building houses -- you alter the incentives that individuals face in their day-to-day lives. In the case of housing, strict planning and zoning laws create positive transaction costs, raise the price of houses, and increase the payoffs for criminality.
