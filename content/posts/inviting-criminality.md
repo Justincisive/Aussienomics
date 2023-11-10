@@ -24,7 +24,7 @@ In the case of New South Wales, it's [all of the above](https://www.smh.com.au/n
 >
 >The Independent Commission Against Corruption on Thursday recommended prosecutors consider criminal charges against Tsirekas after Operation Tolosa investigated claims he accepted rewards from developers in return for advancing their large apartment projects in Sydney’s inner west."
 
-Criminality such as the example above isn't necessarily as bad as, say, stealing or arson; at least the apartments got built, right? But that's only the short-run effect -- over a longer period of time, if developers get away with paying bribes to circumvent regulations it will incentivise more Mayors to become corrupt, and open the door for more developers to engage in bribery.
+Criminality such as the example above isn't necessarily as bad as, say, stealing or arson; at least the apartments got built, right? But that's only the short-run effect -- over a longer period of time, if developers get away with paying bribes to circumvent regulations it will incentivise more Mayors to become corrupt, and open the door for more developers to engage in bribery. Houses will get built but they won't get much cheaper because of the cash needed to pay off officials. It also means only the largest projects will get up, as bribes make up a smaller share of total costs -- the 'missing middle' will stay missing.
 
 ![Image of Mayor Quimby from the Simpsons taking a bribe.](/images/quimby-corrupt-simpsons.png) *Yep, Simpsons did it -- Mayor Quimby was as corrupt as they come. But what can be done?*
 
