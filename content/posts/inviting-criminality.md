@@ -11,6 +11,7 @@ tags:
 backtotop: true
 toc: false
 images: 
+- /images/quimby-corrupt-simpsons.png
 description:
 ---
 When you create a system that makes it costly to do things 'by the book' -- common examples are drugs, guns and more recently, building houses -- you alter the incentives that individuals face in their day-to-day lives. In the case of housing, strict planning and zoning laws create positive transaction costs, raise the price of houses, and increase the payoffs for criminality.
@@ -25,7 +26,9 @@ In the case of New South Wales, it's [all of the above](https://www.smh.com.au/n
 
 Criminality such as the example above isn't necessarily as bad as, say, stealing or arson; at least the apartments got built, right? But that's only the short-run effect -- over a longer period of time, if developers get away with paying bribes to circumvent regulations it will incentivise more Mayors to become corrupt, and open the door for more developers to engage in bribery.
 
-What can be done? Governments can respond to the kind of criminality we see all too often between local government officials and property developers in a few ways. One, they can increase punishment and enforcement. For example, raising fines, increasing jail terms and expanding bodies such as the Independent Commission Against Corruption to investigate crimes.
+![Image of Mayor Quimby from the Simpsons taking a bribe.](/images/quimby-corrupt-simpsons.png) *Yep, Simpsons did it -- Mayor Quimby was as corrupt as they come. But what can be done?*
+
+Governments can respond to the kind of criminality we see all too often between local government officials and property developers in a few ways. One, they can increase punishment and enforcement. For example, raising fines, increasing jail terms and expanding bodies such as the Independent Commission Against Corruption to investigate crimes.
 
 Two, they could pay local government staff more -- perhaps if these corrupt Mayors had more to lose, it would attract a higher calibre of individual and they wouldn't be bribed so easily.
 
