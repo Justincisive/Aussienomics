@@ -2,7 +2,7 @@
   {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
   {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" $contentTypeName) }}
-  <div class="posts">
+  <div class="archive">
 <h1>Posts by {{ .Title }}</h1>
     {{ range $paginator.Pages }}
       <article class="post on-list">
