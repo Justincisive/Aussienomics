@@ -39,6 +39,7 @@ summaryLength = "50"
   # Show full page content in RSS feed items
   #(default is Description or Summary metadata in the front matter)
   # rssFullText = true
+  rssImage = "images/aussienomics-square-300.png"
 
   # default image for socials
   images = ['images/icon-large.png']
