@@ -13,6 +13,7 @@ tags:
 backtotop: true
 toc: false
 images: 
+  - images/unfinished-house.jpg
 description:
 ---
 Whether immigrants fuel inflation is a complicated question, in part because there's no single, uniform "immigrant". Immigrants can be students, skilled workers, families, retirees, or backpackers. Their ages also vary, as do their consumption, savings, and working patterns.
