@@ -16,7 +16,7 @@ images:
   - images/unfinished-house.jpg
 description:
 ---
-Whether immigrants fuel inflation is a complicated question, in part because there's no single, uniform "immigrant". Immigrants can be students, skilled workers, families, retirees, or backpackers. Their ages also vary, as do their consumption, savings, and working patterns.
+Whether immigrants fuel inflation is a complicated question, in part because there's no single, uniform "immigrant". Immigrants can be students, skilled workers, entire families, refugees, retirees, or backpackers. Their ages also vary, as do their consumption, savings, and working patterns.
 
 Each of those features, and how they all come together in aggregate, will affect the role immigration plays on supply, demand and ultimately, prices. At one extreme, an immigrant could be what economists call a low or zero marginal product worker, consuming far more than they produce (e.g., many public services). If the government borrows to finance that consumption, it will be inflationary unless adequately offset elsewhere. 
 
