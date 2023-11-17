@@ -103,29 +103,23 @@ Now that the server is ready it's time to install Docker. These instructions are
 
 **Remove any old versions**
 
-`sudo apt-get remove docker docker-engine docker.io containerd runc`
+`sudo apt remove docker docker-engine docker.io containerd runc`
 
 Update our packages and install Docker:
 
-`sudo apt-get update`
+`sudo apt update`
 
-`sudo apt-get install \
-    ca-certificates \
-    curl \
-    gnupg \
-    lsb-release`
+`sudo apt install ca-certificates curl gnupg lsb-release`
 
 `sudo mkdir -p /etc/apt/keyrings`
 
 `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg`
 
-`echo \
-  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
-  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null`
+`echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null`
 
 `sudo apt update`
 
-`sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin`
+`sudo apt install docker-ce docker-ce-cli containerd.io docker-compose-plugin`
 
 All done! Verify it worked with this command:
 
