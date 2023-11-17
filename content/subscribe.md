@@ -5,11 +5,14 @@ layout = "page"
 
 I don't currently send posts as emails but I may in the future. If that's something that might interest you, you can use the form below to subscribe:
 
-<form method="post" action="https://list.aussienomics.com/subscription/form" class="listmonk-form">
-<input type="hidden" name="nonce" />
-<input type="email" name="email" required placeholder="your@name.com" style="width: 70%;padding: 1rem 2rem;margin: 8px 0;box-sizing: border-box;" type="email" name="email" id="bd-email" />
-<input type="text" name="name" placeholder="Name (optional)" style="width: 70%;padding: 1rem 2rem;margin: 8px 0;box-sizing: border-box;" type="email" name="email" id="bd-email" />
-<input checked="true" id="f89c3" type="checkbox" name="l" checked value="f89c33e4-0b72-4f6b-ab3b-22b743f3a53a" checked style="visibility: hidden; />
-<label for="f89c3" style="visibility: hidden; /"></label><br/>
-<input type="submit" value="Subscribe" style="background-color: #e7e7e7; color: black;border: none;padding: 1rem 2rem;text-align: center;text-decoration: none;display: inline-block;" />
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/aussienomics"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/aussienomics', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+
+  <input placeholder="your@name.com" style="width: 70%;padding: 1rem 2rem;margin: 8px 0;box-sizing: border-box;" type="email" name="email" id="bd-email" />
+  <input style="background-color: #e7e7e7; color: black;border: none;padding: 1rem 2rem;text-align: center;text-decoration: none;display: inline-block;" type="submit" value="Subscribe" />
 </form>
