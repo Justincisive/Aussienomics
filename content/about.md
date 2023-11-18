@@ -12,7 +12,7 @@ Here's a snippet from the original 'About' page:
 > Every attempt will be made to ensure that the commentary and suggested solutions are profound yet simple, intuitive and practical. Economic analysis on this site will be founded in realism and will hopefully help both the layman and professional alike to understand real world problems and provide real world solutions."
 
 ### Get to know the place
-If this is your first visit feel free start browsing the [main page](/), check out the [archive](/archive) for some of the older content, or [search](/search) for something you're interested in. Be sure to [subscribe to my free newsletter](/subscribe)!
+If this is your first visit feel free start browsing the [main page](/), check out the [archive](/archive) for some of the older content, or [search](/search) for something you're interested in. While you're here, be sure to [subscribe to my free newsletter](/subscribe)!
 
 If you have any questions, shoot me an [email](mailto:justin@aussienomics.com) and I'll get back to you as soon as I can.
 
