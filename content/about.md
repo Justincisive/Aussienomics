@@ -11,8 +11,17 @@ Here's a snippet from the original 'About' page:
 > 
 > Every attempt will be made to ensure that the commentary and suggested solutions are profound yet simple, intuitive and practical. Economic analysis on this site will be founded in realism and will hopefully help both the layman and professional alike to understand real world problems and provide real world solutions."
 
-Aussienomics is written in [Markdown](https://en.wikipedia.org/wiki/Markdown), compiled with [Hugo](https://gohugo.io/), served by [Netlify](https://www.netlify.com/) and hosted on [GitHub](https://github.com/Justinomics/Aussienomics). Comments are powered by [Remark42](https://github.com/umputun/remark42) hosted on [Oracle Cloud](https://cloud.oracle.com/). The site's design is a customised version of the [Hello Friend](https://github.com/panr/hugo-theme-hello-friend) theme.
+### Get to know the place
+If this is your first visit feel free start browsing the [main page](/), check out the [archive](/archive) for some of the older content, or [search](/search) for something you're interested in. Be sure to [subscribe to my free newsletter](/subscribe)!
 
-If this is your first visit feel free start browsing the [main page](/), check out the [archive](/archive) for some of our older content, or [search](/search) for something you're interested in. I don't currently email posts as part of a newsletter but I might in the future, so if that interests you then go ahead and subscribe [here](/subscribe).
+If you have any questions, shoot me an [email](mailto:justin@aussienomics.com) and I'll get back to you as soon as I can.
 
-If you have any questions shoot me an [email](mailto:justin@aussienomics.com) and I'll get back to you as soon as I can.
+### For the geeks
+Aussienomics only uses open source software:
+
+- Written in [Markdown](https://en.wikipedia.org/wiki/Markdown).
+- Compiled using [Hugo](https://gohugo.io/).
+- Comments by [Remark42](https://github.com/umputun/remark42).
+- Newsletter management with [Listmonk](https://listmonk.app/).
+
+The website is served by [Netlify](https://www.netlify.com/) on [GitHub](https://github.com/Justinomics/Aussienomics), while Remark42 and Listmonk are hosted by [Oracle Cloud](https://cloud.oracle.com/) in Australia. 
