@@ -33,3 +33,6 @@ body {
   @media (max-width: 684px) {
     body {
       font-size: 1.1rem; } }
+li {
+  margin: 5px;
+}
