@@ -13,7 +13,7 @@ toc: false
 images: 
 description:
 ---
-I've got a big news: from around 8 January next year, you're going to be seeing a LOT more content on these pages. Why? Because I'm leaving Treasury and will be working as an independent economist full-time. At this stage I don't know exactly how many posts I'll write each week, but it'll probably be in the vicinity of 3-5, depending on what's going on in the world.
+I've got big news: from around 8 January next year, you're going to be seeing a LOT more content on these pages. Why? Because I'm leaving Treasury and will be working as an independent economist full-time. At this stage I don't know exactly how many posts I'll write each week, but it'll probably be in the vicinity of 3-5, depending on what's going on in the world.
 
 As part of the change, I'm also going to start sending all posts via email. If that's something that sounds good to you then go ahead and sign up using this form. Be sure to check your spam folder if you don't receive a confirmation message in your inbox after clicking Subscribe:
 
