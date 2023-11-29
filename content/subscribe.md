@@ -5,7 +5,7 @@ layout = "page"
 
 Everything published on Aussienomics is also sent as a regular email newsletter (sometimes with bonus content!). 
 
-If that’s something that sounds good to you then you can use this form to sign up (be sure to check your spam box if you don’t receive a confirmation message):
+If that's something that sounds good to you then you can use this form to sign up. Be sure to check your spam folder if you don't receive a confirmation message in your inbox after clicking Subscribe:
 
 <form method="post" action="https://list.aussienomics.com/subscription/form" class="listmonk-form">
 <input type="hidden" name="nonce" />
