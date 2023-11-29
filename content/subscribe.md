@@ -3,7 +3,9 @@ title = "Subscribe"
 layout = "page"
 +++
 
-I don't currently send posts as emails but I will soon. If that's something that might interest you, you can use the form below to subscribe:
+Everything published on Aussienomics is also sent as a regular email newsletter (sometimes with bonus content!). 
+
+If that’s something that sounds good to you then you can use this form to sign up (be sure to check your spam box if you don’t receive a confirmation message):
 
 <form method="post" action="https://list.aussienomics.com/subscription/form" class="listmonk-form">
 <input type="hidden" name="nonce" />
