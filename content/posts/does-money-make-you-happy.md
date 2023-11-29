@@ -53,5 +53,3 @@ These new findings should -- but let's be real, won't -- give pause to politicia
 Raising taxes also creates what economists call deadweight losses, which are essentially the private exchanges that can no longer be made because of the new taxes. While the happiness gains from tax and redistribution policies may never eventuate, the deadweight losses are very real, ultimately destroying value creation and making us all poorer.
 
 The implications are clear: making claims about the relationship between income and happiness should not be the sole factor in designing policy, and structuring budgets around 'wellbeing' risks losing objectivity and flying blind. Everyone wants to improve society's overall happiness, but you can't base policy on the erroneous claim that money matters less to high income earners without also acknowledging the complex trade-offs involved.
-
-{{< subscribe-form action="https://buttondown.email/api/emails/embed-subscribe/aussienomics" >}}

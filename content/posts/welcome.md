@@ -3,12 +3,11 @@ title: Welcome
 ShowBreadCrumbs: false
 ShowToc: false
 author: Justin Pyvis
-authors: 
- - Justin Pyvis
+authors:
+  - Justin Pyvis
 date: 2022-12-09T09:00:00+08:00
 tags:
-  - admin
-  - news
+  - off-topic
 toc: false
 ---
 Welcome to Aussienomics, an Australian economics-themed blog. This website has existed since 2009 but was in hibernation for nearly a decade between 2013 and now (late 2022).
