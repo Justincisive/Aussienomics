@@ -79,19 +79,28 @@ li {
   display: inline-block
 }
 @media only screen and (min-width: 600px) {
-  .promo-box {
-    width: 65%;
-    text-align:center;
-    margin-left: auto;
-    margin-right: auto;
-  } 
+ .promo-box {
+   width: 65%;
+   text-align:center;
+   margin-left: auto;
+   margin-right: auto;
+ } 
 }
-    .footer .copyright > *:first-child:not(:only-child) {
-      border-right: 0;
-      padding-right: 0;
-      margin-right: 0; }
-      @media (max-width: 900px) {
-        .footer .copyright > *:first-child:not(:only-child) {
-          border: none;
-          padding: 0;
-          margin: 0; } }
+@media only screen and (max-width: 600px) {
+.subscribe-form input[type=email] {
+  width: 90%;
+}
+.subscribe-form input[type=text] {
+  width: 90%;
+ }
+}
+.footer .copy {
+  align-items: center;
+  font-size: 1rem; }
+.footer .copy--user {
+  margin: auto;
+  text-align: center; }
+@media (max-width: 900px) {
+.footer .copy {
+   flex-direction: column;
+   margin-top: 10px; } }
