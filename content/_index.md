@@ -23,4 +23,4 @@ Our goal is simple: to be your go-to source for no-nonsense, non-partisan, infor
 
 Don't like email? No worries: while you won't get the exclusive content we frequently send only to subscribers, we do [archive](/archive) most of our posts directly on the website, after a short delay.
 
-You can check out our latest posts by [clicking here](/posts).
+You can also check out our latest posts by [clicking here](/posts).
