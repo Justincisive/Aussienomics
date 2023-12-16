@@ -6,6 +6,10 @@ body:not(.light-theme) .subscribe-form {
 	filter: invert(1);
     -webkit-filter: invert(1);
 }
+body:not(.light-theme) article img {
+	filter: invert(1);
+    -webkit-filter: invert(1);
+}
 .logo img {
     height: 55px; width: 78px; }
 .header {

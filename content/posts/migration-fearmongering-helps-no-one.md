@@ -29,7 +29,7 @@ To see why they are wrong, it's best to start with the ABS' accompanying [media 
 
 Sometimes it helps to use a counterfactual -- how might have Australia's population have looked had the pandemic never happened? The following chart shows Australia's annual population growth, along with a few markers to show just how big of an impact the pandemic's border closures had on the country.
 
-![Chart showing Australia's annual population growth.](/images/aus-annual-pop-jun-23.jpg) *It looks big, but the recent growth is more statistical quirk than permanent policy change.*
+![Chart showing Australia's annual population growth.](/images/aus-annual-pop-jun-23.png) *It looks big, but the recent growth is more statistical quirk than permanent policy change.*
 
 You'll notice the dashed orange line is still below the dashed blue line -- despite the recent surge, average population growth since the borders were slammed shut and then reopened is still below where it would have been had the pandemic never happened, assuming no change to Australia's migration policy.
 
@@ -37,11 +37,11 @@ You'll notice the dashed orange line is still below the dashed blue line -- desp
 
 The next chart shows this in terms of cumulative population growth. As of June 2023, we were still about 180,000 people *below* where we would have been if the 10-year, pre-pandemic trend had simply continued. I've also extrapolated both lines out to 2027 using their linear trends, which is essentially what the media articles above are doing to reach their conclusions. 
 
-![Chart showing Australia's cumulative population growth since the pandemic.](/images/aus-cumulative-pop-jun-23.jpg) *The dashed orange line should flatten and converge to the dashed blue line, rather than continue on at its current rate.*
+![Chart showing Australia's cumulative population growth since the pandemic.](/images/aus-cumulative-pop-jun-23.png) *The dashed orange line should flatten and converge to the dashed blue line, rather than continue on at its current rate.*
 
 Even under the extremely unlikely scenario where the current trend of population growth continues -- as mentioned earlier, the recent surge in population growth is due to the arrival of temporary migrants (e.g., students, backpackers) without the normal outflow of those people as they finished their degrees or used up their working holiday visas -- we still wouldn't reach where we would have been without the pandemic until the middle of next year. In other words, today's housing and infrastructure may have been even more stressed in a world where the pandemic never happened!
 
-![Chart showing overseas student numbers falling and rising again](/images/aus-students-jun-23.jpg) *We're still seeing the effects of the pandemic in the data -- new overseas students aren't being offset by departures.*
+![Chart showing overseas student numbers falling and rising again](/images/aus-students-jun-23.png) *We're still seeing the effects of the pandemic in the data -- new overseas students aren't being offset by departures.*
 
 But for all the fearmongering, a much more likely scenario is that net migration tapers off over the next year as temporary migrants start leaving the country, with Australia's population converging to a level close to the pre-pandemic trend. We may even fall below that trend -- the Australian government's new [Migration Strategy](https://immi.homeaffairs.gov.au/what-we-do/migration-strategy) looks to make temporary migration more difficult, and with the government's permanent migration quota currently [fixed at the](https://immi.homeaffairs.gov.au/what-we-do/migration-program-planning-levels) "pre-COVID planning level of 190,000", there won't be a rise in permanent migrants to offset that policy change.
 

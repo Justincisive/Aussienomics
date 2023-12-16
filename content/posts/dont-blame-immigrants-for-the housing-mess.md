@@ -45,7 +45,7 @@ The RBA further aggravated this demand shock by cutting rates to zero, [giving b
 
 So, what happened? People responded to these incentives, knocked down their houses, and then needed a rental to live in while it was being built. This effect, combined with the rise of short-term accommodation platforms such as Airbnb, and a desire for [more space](https://www.rba.gov.au/publications/bulletin/2023/mar/a-new-measure-of-average-household-size.html) due to pandemic-related health restrictions and the 'work from home revolution', put enormous pressure on the rental market.
 
-![Chart showing building approvals and demolitions.](/images/approvals-demos-sep-23.jpg) *When you pay people to knock their houses down, don't be surprised when they do it.*
+![Chart showing building approvals and demolitions.](/images/approvals-demos-sep-23.png) *When you pay people to knock their houses down, don't be surprised when they do it.*
 
 Rising housing costs caused by this government-induced shock are a *relative* price change; houses have gone up in value compared to most other goods and services in the economy. It has nothing to do with the persistent inflation we're experiencing today, which is due to fiscal and monetary policy errors. Contra Costello, immigrants and house/rental prices are not "driving inflation", as higher expenses in that area should mean people have less money to spend elsewhere, causing prices to stabilise or fall in the rest of the economy. 
 
@@ -60,6 +60,6 @@ Unfortunately, there are no easy answers that will fix the mess in the short run
 
 And we haven't been very good at that in recent years.
 
-![Chart showing building completions.](/images/dwellings-completed-sep-23.jpg) *Despite huge demand, we haven't been able to complete much new housing.*
+![Chart showing building completions.](/images/dwellings-completed-sep-23.png) *Despite huge demand, we haven't been able to complete much new housing.*
 
 The ongoing housing and rental crisis will take time to resolve. Immigrants might prove to be an easy scapegoat, but they're not why our housing market is in the mess it's in today, and they're also not making inflation worse. The best thing local, state and federal governments can do from here to fix the crisis is clear the artificial barriers holding up construction and *let us build*.
