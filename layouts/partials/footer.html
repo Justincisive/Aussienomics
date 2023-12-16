@@ -1,7 +1,7 @@
 <footer class="footer">
   <div class="footer__inner">
     {{ if $.Site.Copyright }}
-      <div class="copy copy--user">&copy; {{ dateFormat "2006" now }} {{ $.Site.Copyright | safeHTML }}&nbsp;&bull;&nbsp;<a href="{{ .Site.Params.privacypolicy }}" title="Privacy policy">Privacy</a>&nbsp;&bull;&nbsp;<a href="{{ .Site.Params.websiteterms }}" title="Terms of use">Terms</a></div>
+      <div class="copy copy--user">&copy; {{ dateFormat "2006" now }} {{ $.Site.Copyright | safeHTML }} &bull; <a href="{{ .Site.Params.privacypolicy }}" title="Privacy policy">Privacy</a> &bull; <a href="{{ .Site.Params.websiteterms }}" title="Terms of use">Terms</a></div>
       {{ else }}
       {{ partial "logo.html" . }}
       <div class="copyright">
