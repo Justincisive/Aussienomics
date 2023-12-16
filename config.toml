@@ -2,7 +2,7 @@ baseurl = "https://aussienomics.com/"
 languageCode = "en-us"
 title = "Aussienomics"
 subtitle = "Economic, political and social issues in Australia."
-copyright = "&copy; 2023 Aussienomics"
+copyright = "Aussienomics"
 menuMore = "Show more"
 writtenBy = "by"
 readMore = "Read more"
@@ -46,6 +46,11 @@ summaryLength = "50"
 
   # default subtitle
   subtitle = "Economic, political and social issues in Australia."
+
+  # footer links
+  websiteterms = "/terms"
+  privacypolicy = "/privacy"
+  copystart = "2009"
 
 [permalinks]
   posts = '/:title/'
