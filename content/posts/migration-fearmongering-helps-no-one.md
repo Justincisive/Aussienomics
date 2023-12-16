@@ -33,6 +33,8 @@ Sometimes it helps to use a counterfactual -- how might have Australia's populat
 
 You'll notice the dashed orange line is still below the dashed blue line -- despite the recent surge, average population growth since the borders were slammed shut and then reopened is still below where it would have been had the pandemic never happened, assuming no change to Australia's migration policy.
 
+{{< subscribe-form action="https://list.aussienomics.com/subscription/form" >}}
+
 The next chart shows this in terms of cumulative population growth. As of June 2023, we were still about 180,000 people *below* where we would have been if the 10-year, pre-pandemic trend had simply continued. I've also extrapolated both lines out to 2027 using their linear trends, which is essentially what the media articles above are doing to reach their conclusions. 
 
 ![Chart showing Australia's cumulative population growth since the pandemic.](/images/aus-cumulative-pop-jun-23.jpg) *The dashed orange line should flatten and converge to the dashed blue line, rather than continue on at its current rate.*
