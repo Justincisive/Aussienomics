@@ -19,4 +19,4 @@ Welcome to Aussienomics, your home for thoughtful analysis and commentary on the
 ## Why Subscribe?
 Our goal is simple: to be your go-to source for no-nonsense, non-partisan, informed and nuanced perspectives on the topics that matter most. By subscribing, you'll stay up-to-date on the latest developments and have the context you need to make sense of it all.
 
-Don't have email? No worries: while you won't get the exclusive content we frequently send only to subscribers, we do [archive](/archive) most of our posts directly on the website after a short delay.
+Don't like email? No worries: while you won't get the exclusive content we frequently send only to subscribers, we do [archive](/archive) most of our posts directly on the website after a short delay.
