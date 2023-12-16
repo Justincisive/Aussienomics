@@ -51,11 +51,12 @@
       {{ end }}
 
 <!-- adding the search stuff -->
-
+<div class="subscribe-form">
     <form action="{{ "search" | absURL }}">
-      <input placeholder="Start typing..." style="width: 70%;padding: 1rem 1rem;margin: 8px 0;box-sizing: border-box;" id="search-query" name="s"/>
-      <input style="background-color: #e7e7e7; color: black;border: none;padding: 1rem 2rem;text-align: center;text-decoration: none;display: inline-block;" type="submit" value="Search" />
+      <input type="text" placeholder="Start typing..." id="search-query" name="s"/>
+      <input type="submit" value="Search" />
     </form>
+</div>
     <div id="search-results">
 
     </div>
