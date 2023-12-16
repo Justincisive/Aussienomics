@@ -50,7 +50,6 @@ summaryLength = "50"
   # footer links
   websiteterms = "/terms"
   privacypolicy = "/privacy"
-  copystart = "2009"
 
 [permalinks]
   posts = '/:title/'
