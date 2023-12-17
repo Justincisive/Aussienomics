@@ -1,12 +1,12 @@
 +++
-title = "Untangling Australia's most complex issues."
+title = "Australia, decoded."
 layout = "homepage"
-description = "Welcome to Aussienomics, your home for in-depth analysis and thoughtful commentary on the economic, political, and social issues shaping Australia."
+description = "Aussienomics is your home for thoughtful analysis and commentary on the economic, political, and social issues shaping Australia."
 +++
 
-Welcome to Aussienomics, your home for thoughtful analysis and commentary on the economic, political, and social issues shaping Australia. In a rapidly changing world, staying informed is more crucial than ever, and we're here to provide you with the knowledge and insights you need to get a clear look at what's shaking down under.
+Welcome to Aussienomics, your lens into Australia's complex economic, political, and social landscape. The headlines are noisy. The debates can be polarising. We filter the chatter to provide thoughtful analysis of the crucial issues facing Australia.
 
-So don't miss out -- subscribe now and get the next issue delivered straight to your inbox!
+Stay inquisitive and informed by [subscribing](/subscribe) to our newsletter. We promise a balanced, nuanced perspective -- no hysterics or sensationalism. Just well-researched commentary grounded in facts.
 
 <div class="subscribe-form">
 <form method="post" action="https://list.aussienomics.com/subscription/form" class="listmonk-form">
@@ -19,8 +19,8 @@ So don't miss out -- subscribe now and get the next issue delivered straight to 
 </div>
 
 ## Why Subscribe?
-Our goal is simple: to be your go-to source for no-nonsense, non-partisan, informed and nuanced perspectives on the topics that matter most. By subscribing, you'll stay up-to-date on the latest developments and have the context you need to make sense of it all.
+Our goal is simple: to truly understand what's unfolding in Australia. Subscribe to stay up-to-date on the latest developments and have the context you need to make sense of it all.
 
-Don't like email? No worries: while you won't get the exclusive content we frequently send only to subscribers, we do [archive](/archive) most of our posts directly on the website, after a short delay.
+As a subscriber, you'll gain exclusive early access to incisive analysis before it's released publicly. Stay continually informed and get the illuminating insights you need to navigate current events.
 
-You can also check out our latest posts by [clicking here](/posts).
+You can check out our recent posts by [clicking here](/posts), or [subscribe](/subscribe) to get all future posts delivered to your inbox.
