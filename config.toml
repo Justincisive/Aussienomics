@@ -1,7 +1,6 @@
 baseurl = "https://aussienomics.com/"
 languageCode = "en-us"
 title = "Aussienomics"
-subtitle = "Economic, political and social issues in Australia."
 copyright = "Aussienomics"
 menuMore = "Show more"
 writtenBy = "by"
@@ -45,7 +44,7 @@ summaryLength = "50"
   images = ['images/icon-large.png']
 
   # default subtitle
-  subtitle = "Economic, political and social issues in Australia."
+  subtitle = "Your lens into Australia's complex economic, political, and social landscape."
 
   # footer links
   websiteterms = "/terms"
