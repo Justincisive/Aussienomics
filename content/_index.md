@@ -4,9 +4,9 @@ layout = "homepage"
 description = "Aussienomics is your home for thoughtful analysis and commentary on the economic, political, and social issues shaping Australia."
 +++
 
-Welcome to Aussienomics, your lens into Australia's complex economic, political, and social landscape. The headlines are noisy. The debates can be polarising. We filter the chatter to provide thoughtful analysis of the crucial issues facing Australia.
+Welcome to Aussienomics, your lens into Australia's complex economic, political, and social landscape. We filter the chatter to provide thoughtful analysis of the crucial issues facing Australia.
 
-Keep yourself informed by [subscribing](/subscribe) to our newsletter. We promise a balanced, nuanced perspective -- no hysterics or sensationalism. Just well-researched economic commentary grounded in facts.
+Keep yourself informed by [subscribing](/subscribe) to our newsletter. We promise an insightful, nuanced perspective -- no hysterics or sensationalism. Just well-researched economic commentary grounded in facts.
 
 <div class="subscribe-form">
 <form method="post" action="https://list.aussienomics.com/subscription/form" class="listmonk-form">
@@ -21,4 +21,4 @@ Keep yourself informed by [subscribing](/subscribe) to our newsletter. We promis
 ## Why Subscribe?
 Our goal is simple: to truly understand what's unfolding in Australia. [Subscribe](/subscribe) to stay up-to-date on the latest developments, gain exclusive early access to incisive analysis before it's released publicly, and have the context you need to make sense of it all.
 
-You can see what we're all about by browsing our recent posts [here](/posts), or just go ahead and [subscribe](/subscribe) to get all future posts delivered to your inbox.
+You can see what we're all about by reading our latest analysis [here](/posts), or go ahead and [subscribe](/subscribe) to get all future posts delivered to your inbox.
