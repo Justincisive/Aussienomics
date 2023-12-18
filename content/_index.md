@@ -6,7 +6,7 @@ description = "Aussienomics is your home for thoughtful analysis and commentary 
 
 Welcome to Aussienomics, your lens into Australia's complex economic, political, and social landscape. The headlines are noisy. The debates can be polarising. We filter the chatter to provide thoughtful analysis of the crucial issues facing Australia.
 
-Stay inquisitive and informed by [subscribing](/subscribe) to our newsletter. We promise a balanced, nuanced perspective -- no hysterics or sensationalism. Just well-researched economic commentary grounded in facts.
+Keep yourself informed by [subscribing](/subscribe) to our newsletter. We promise a balanced, nuanced perspective -- no hysterics or sensationalism. Just well-researched economic commentary grounded in facts.
 
 <div class="subscribe-form">
 <form method="post" action="https://list.aussienomics.com/subscription/form" class="listmonk-form">
