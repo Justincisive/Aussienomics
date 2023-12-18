@@ -11,7 +11,7 @@ Stay inquisitive and informed by [subscribing](/subscribe) to our newsletter. We
 <div class="subscribe-form">
 <form method="post" action="https://list.aussienomics.com/subscription/form" class="listmonk-form">
 <input type="hidden" name="nonce" />
-<input type="email" name="email" required placeholder="Your.name@company.com" />
+<input type="email" name="email" required placeholder="Your email address here..." />
 <input checked="true" id="f89c3" type="checkbox" name="l" checked value="f89c33e4-0b72-4f6b-ab3b-22b743f3a53a" checked style="visibility: hidden; margin:0; padding:0;" />
 <label for="f89c3" style="visibility: hidden; margin:0; padding:0;" /></label>
 <input type="submit" value="Subscribe" />
