@@ -4,7 +4,7 @@ layout = "homepage"
 description = "Aussienomics is your home for thoughtful analysis and commentary on the economic, political, and social issues shaping Australia."
 +++
 
-Welcome to Aussienomics, your lens into Australia's complex economic, political, and social landscape. We promise an insightful, nuanced perspective -- no hysterics or sensationalism. Just well-researched economic commentary grounded in facts.
+Welcome to Aussienomics, your lens into Australia's complex economic, political, and social landscape. We offer an insightful, nuanced perspective -- no hysterics or sensationalism. Just well-researched economic commentary grounded in facts.
 
 Keep yourself informed by [subscribing](/subscribe) to our newsletter using the box below.
 
