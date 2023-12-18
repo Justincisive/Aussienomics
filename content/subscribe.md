@@ -5,7 +5,7 @@ layout = "page"
 
 Everything you see on Aussienomics was first delivered as a newsletter to subscribers, often with exclusive content not seen anywhere else. 
 
-If that sounds good to you, then you can use this form to sign up. Be sure to check your spam folder if you don't receive a confirmation message in your inbox after clicking the Subscribe button.
+If that sounds good to you, then you can use this form to sign up.
 
 <div class="subscribe-form">
 <form method="post" action="https://list.aussienomics.com/subscription/form" class="listmonk-form">
@@ -17,3 +17,5 @@ If that sounds good to you, then you can use this form to sign up. Be sure to ch
 <input type="submit" value="Subscribe" />
 </form>
 </div>
+
+Be sure to check your spam/promotions folder if you don't receive a confirmation message within a minute, and drag it to your inbox to whitelist our future emails.

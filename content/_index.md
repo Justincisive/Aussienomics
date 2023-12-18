@@ -6,7 +6,7 @@ description = "Aussienomics is your home for thoughtful analysis and commentary 
 
 Welcome to Aussienomics, your lens into Australia's complex economic, political, and social landscape. The headlines are noisy. The debates can be polarising. We filter the chatter to provide thoughtful analysis of the crucial issues facing Australia.
 
-Stay inquisitive and informed by [subscribing](/subscribe) to our newsletter. We promise a balanced, nuanced perspective -- no hysterics or sensationalism. Just well-researched commentary grounded in facts.
+Stay inquisitive and informed by [subscribing](/subscribe) to our newsletter. We promise a balanced, nuanced perspective -- no hysterics or sensationalism. Just well-researched economic commentary grounded in facts.
 
 <div class="subscribe-form">
 <form method="post" action="https://list.aussienomics.com/subscription/form" class="listmonk-form">
@@ -19,8 +19,6 @@ Stay inquisitive and informed by [subscribing](/subscribe) to our newsletter. We
 </div>
 
 ## Why Subscribe?
-Our goal is simple: to truly understand what's unfolding in Australia. Subscribe to stay up-to-date on the latest developments and have the context you need to make sense of it all.
+Our goal is simple: to truly understand what's unfolding in Australia. [Subscribe](/subscribe) to stay up-to-date on the latest developments, gain exclusive early access to incisive analysis before it's released publicly, and have the context you need to make sense of it all.
 
-As a subscriber, you'll gain exclusive early access to incisive analysis before it's released publicly. Stay continually informed and get the illuminating insights you need to navigate current events.
-
-You can check out our recent posts by [clicking here](/posts), or [subscribe](/subscribe) to get all future posts delivered to your inbox.
+You can see what we're all about by browsing our recent posts [here](/posts), or just go ahead and [subscribe](/subscribe) to get all future posts delivered to your inbox.
