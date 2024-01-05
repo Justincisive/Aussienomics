@@ -7,6 +7,6 @@ Aussienomics does not disclose, barter, sell, trade or share any user data unles
 
 You may unsubscribe from our service at any time by clicking the "unsubscribe" link at the bottom of every email. If you no longer want us to store your information, please send us a message using the email address you registered with and we will destroy any and all information we have on you within 72 hours.
 
- <!-- Payments are handled by Stripe and are subject to its privacy policy. -->
+All payments are handled by [Lemon Squeezy](https://www.lemonsqueezy.com/) and are subject to its privacy policy.
 
 This page may be updated on occasion, so please be sure to come back regularly to view any changes. Should you have any questions, please contact us via email at support@aussienomics.com.
