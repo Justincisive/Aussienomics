@@ -6,10 +6,6 @@ body:not(.light-theme) .subscribe-form {
 	filter: invert(1);
     -webkit-filter: invert(1);
 }
-body:not(.light-theme) .subscribe-buttons {
-	filter: invert(1);
-    -webkit-filter: invert(1);
-}
 body:not(.light-theme) article img {
 	filter: invert(1);
     -webkit-filter: invert(1);
@@ -112,50 +108,3 @@ li {
 .footer .copy {
    flex-direction: column;
    margin-top: 10px; } }
-.premium-button {
-  background-color: #202020;
-  color: white;
-  border: 1px solid #202020;
-  border-radius: 4px;
-  padding: 1rem 2rem;
-  text-decoration: none;
-  display: inline-block;
-  margin: 0 16px 2px;
-  width:8rem;
-  font-size: 0.9rem;
-  font-weight:900;
-}
-.premium-button:hover {
-  background-color: #000;
-  color: white;
-  border: 1px solid #202020;
-  border-radius: 4px;
-  padding: 1rem 2rem;
-  text-decoration: none;
-  display: inline-block;
-}
-.free-button {
-  background-color: #f7f7f7;
-  color: black;
-  border: 1px solid #202020;
-  border-radius: 4px;
-  padding: 1rem 2rem;
-  text-decoration: none;
-  display: inline-block;
-  margin: 1px;
-  width:8rem;
-  font-size: 0.9rem;
-  font-weight:600;
-}
-.free-button:hover {
-  background-color: #f3f3f3;
-  color: black;
-  border: 1px solid #202020;
-  border-radius: 4px;
-  padding: 1rem 2rem;
-  text-decoration: none;
-  display: inline-block;
-}
-.subscribe-buttons {
-text-align: center;
-}

@@ -17,11 +17,11 @@ If this is your first visit feel free start browsing the [main page](/), check o
 If you have any questions, shoot us an [email](mailto:support@aussienomics.com) and we'll get back to you as soon as we can.
 
 ### For the geeks
-Aussienomics is built almost entirely on open source software:
+Aussienomics only uses open source software:
 
 - Written in [Markdown](https://en.wikipedia.org/wiki/Markdown).
 - Compiled using [Hugo](https://gohugo.io/).
 - Comments by [Remark42](https://github.com/umputun/remark42).
 - Newsletter management with [Listmonk](https://listmonk.app/).
 
-The website is served by [Netlify](https://www.netlify.com/) and [GitHub](https://github.com/), while Remark42 and Listmonk are self-hosted on [Oracle Cloud](https://cloud.oracle.com/) in Sydney, Australia. All payments are processed by [Lemon Squeezy](https://www.lemonsqueezy.com/).
+The website is served by [Netlify](https://www.netlify.com/) and [GitHub](https://github.com/), while Remark42 and Listmonk are self-hosted on [Oracle Cloud](https://cloud.oracle.com/) in Sydney, Australia.
