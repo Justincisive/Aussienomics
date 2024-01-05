@@ -18,38 +18,6 @@ When COVID-19 struck, the Australian government -- along with just about every g
 
 Now, JobKeeper was expensive -- $89 billion expensive, $38 billion (43%) [of which](https://www.abc.net.au/news/2021-11-02/38b-in-jobkeeper-went-to-companies-where-turnover-did-not-fall-/100586310) "went to employers that did not suffer sustained downturns below threshold levels". Borland and Hunt ([2023](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8462.12503)) concluded that JobKeeper's "cost per job saved was high and the impact most likely regressive", i.e., it pissed away a lot of cash and the biggest beneficiaries were already relatively wealthy, so didn't even need it.
 
-
- <div class="user-info">
-   <button id="left">Log In</button>
-   <button id="right">Sign Up</button>
- </div>
-
- <div class="corgi-content">
-   <div class="content">
-     <h2>Free Content</h2>
-     <div class="free"></div>
-   </div>
-
-   <div class="content">
-     <h2>Pro Content</h2>
-     <div class="pro"></div>
-   </div>
-
-   <div class="content">
-     <h2>Premium Content</h2>
-     <div class="premium"></div>
-   </div>
- </div>
-
-<template id="content">
-   <figure class="content-display">
-     <img />
-     <figcaption>
-       <a class="credit"></a>
-     </figcaption>
-   </figure>
- </template>
-
 But if it did its job and prevented economic calamity then all good, right? That's the approach taken by the Albanese government, which recently released the results of its "Independent Evaluation of the JobKeeper", [concluding](https://treasury.gov.au/publication/p2023-455038) that:
 
 > "It played a critical role in addressing the extraordinary and unquantifiable uncertainty at the time of its introduction and averting the worst economic tail risks of the pandemic... It preserved employment, supported incomes and prevented large scale business failures during the pandemic."
