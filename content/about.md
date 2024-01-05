@@ -7,7 +7,7 @@ Aussienomics was created by [Dr Justin Pyvis](/author/justin-pyvis). It was orig
 
 Here's a snippet from the original 'About' page:
 
-> "Frustrated with the extreme bias in the main stream media and the severe lack of critical thinking in Australia, Aussienomics was established to provide a source of alternative thinking with a particular focus on current economic, political and social issues in Australia.
+> "Aussienomics was established to provide a source of alternative thinking with a particular focus on current economic, political and social issues in Australia.
 > 
 > Every attempt will be made to ensure that the commentary and suggested solutions are profound yet simple, intuitive and practical. Economic analysis on this site will be founded in realism and will hopefully help both the layman and professional alike to understand real world problems and provide real world solutions."
 

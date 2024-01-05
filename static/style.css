@@ -113,9 +113,9 @@ li {
    flex-direction: column;
    margin-top: 10px; } }
 .premium-button {
-  background-color: #202020;
+  background-color: #c5832b;
   color: white;
-  border: 1px solid #202020;
+  border: none;
   border-radius: 4px;
   padding: 1rem 2rem;
   text-decoration: none;
@@ -126,18 +126,18 @@ li {
   font-weight:900;
 }
 .premium-button:hover {
-  background-color: #000;
+  background-color: #b17526;
   color: white;
-  border: 1px solid #202020;
+  border: none;
   border-radius: 4px;
   padding: 1rem 2rem;
   text-decoration: none;
   display: inline-block;
 }
 .free-button {
-  background-color: #f7f7f7;
+  background-color: #eff1f3;
   color: black;
-  border: 1px solid #202020;
+  border: none;
   border-radius: 4px;
   padding: 1rem 2rem;
   text-decoration: none;
@@ -148,9 +148,9 @@ li {
   font-weight:600;
 }
 .free-button:hover {
-  background-color: #f3f3f3;
+  background-color: #efeff0;
   color: black;
-  border: 1px solid #202020;
+  border: none;
   border-radius: 4px;
   padding: 1rem 2rem;
   text-decoration: none;
